@@ -14,6 +14,7 @@ Isn't information transfer, in and of itself, a type of flux, that would limit t
 
 I was inspired to think about the above types of things, while relaxing and watching this wonderful discussion about the topic of "infinity" - https://www.youtube.com/watch?v=Vp570S6Plt8  
 
+---
 
 Here are some other ideas along similar lines of discussion, that I end up pondering about, from time to time...
 
