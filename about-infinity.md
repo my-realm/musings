@@ -34,4 +34,4 @@ Therefore, the notion of the largest unbounded collection of all possible things
 Although, at times, musing about those kinds of unfathomable things, turns out to become a futile endeavor that various human beings indulge in as an escape from the mundane or prickly aspects of daily life, the mathematics which comes to be developed and expounded in trying to address seemingly unsolvable questions, becomes useful in exploring and solving various other kinds of mathematical problems. But, when one considers physically finite, macro-level problems within the planet Earth, like that of the current war between Israel and Palestine, its challenging magnitude and complexity, somehow seems to be even more unsolvable and unending, compared to paradoxical theorems and lemmas articulated within publications of pure mathematics, and theoretical physics. 
 
 
-[Continued in a subsequent part, that includes topics from anthropology and current affairs...]()
+*[Continued in a subsequent part, that includes topics from anthropology and current affairs...](https://github.com/true-foresight/2023-10/blob/main/21.md)
