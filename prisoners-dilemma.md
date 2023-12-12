@@ -5,7 +5,7 @@ By the time someone reaches graduate school while studying any mathematics or sc
 
 The premise of the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Premise) goes somewhat like this:
 
-- Two individuals assumed as belonging to an organization are caught by a policing agency, when those individuals were observed as trespassing some kind of a restricted area. 
+- Two individuals assumed as belonging to an organization are caught by a policing agency when those individuals were observed as trespassing some kind of a restricted area. 
 
 - Each of the apprehended individuals is labeled as a villainous operative, and is then held as a prisoner, in separate prison cells. 
 
@@ -63,7 +63,7 @@ I would like to apologize to those people who were expecting a watered down, and
 
 My approach towards obtaining some measure of worthwhile justice, for a range of violations and offenses committed against people like myself, as documented in these types of articles, has been simple: 
 
-- Make sure that the language and length of the content in these articles causes grunt workers called in to read and summarize such materials, to give up and to then, handover these sets of things in their original format, to their supervisors. Eventually, some of this will reach a stickler for the truth, who is competent enough to at least go through the abstract and the introduction of the sets of material published with a table-of-content. The sets that do not have a book like format, are certainly more difficult to navigate, as their content is only for addressing incidental issues that have come up during the course of this overall endeavor. 
+- Make sure that the language and length of the content in these articles causes grunt workers called in to read and summarize such materials, to give up, and to then, handover these sets of things in their original format, to their supervisors. Eventually, some of this will reach a stickler for the truth, who is competent enough to at least go through the abstract and the introduction of the sets of material published with a table-of-content. The sets that do not have a book like format, are certainly more difficult to navigate, as their content is only for addressing incidental issues that have come up during the course of this overall endeavor. 
 
 - Add sufficiently many keywords in each article so that it can be picked up by search engine bots and crawlers. This means that, sometimes popular topics like "quantum mechanics" have to be connected to the main subject matter, in an artistic way, using  extended analogies. 
 
