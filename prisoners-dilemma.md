@@ -37,7 +37,7 @@ Regardless of the mathematical and game theoretic view that academicians may hol
 
 So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India, in order to comprehend the quantum mechanics version of the prisoners' dilemma. 
 
-- We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do the "Indian head-bobble", as a response. 
+- We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do ["the Indian head-bobble",](https://youtu.be/EoJ4Bvsq7gQ) as a response. 
 
 In the classical prisoners' dilemma, only binary forms of outcomes are assumed, where each prisoner either does, or does not cooperate with the captors, in order to either 'collude with', or 'betray' the other prisoners. Malfeasance and wrongdoing on part of the prisoners, is already presumed. But, the Indian head-bobble, changes the situation to a much more multifaceted outcome, which does not involve a simplistic, mutually-exclusive, binary response from the prisoners. 
 
