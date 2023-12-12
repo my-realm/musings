@@ -35,6 +35,8 @@ Regardless of the mathematical and game theoretic view that academicians may hol
 
 >When innocent people are held in captivity for made up charges, any kind of a plea deal for a confession is unjust and is a disservice to those people. Use of corporeal punishments, torment, and torture, to break down human beings, in order for the broken individuals to seek respite from their suffering and from being violated, by submitting to a false confession, is far from any type of a just behavior that a regularized public service unit ought to ever commit.  
 
+---
+
 So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India, in order to comprehend the quantum mechanics version of the prisoners' dilemma. 
 
 - We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do ["the Indian head-bobble",](https://youtu.be/EoJ4Bvsq7gQ) as a response. 
@@ -56,6 +58,8 @@ Consider a situation in which, the prisoners are indeed culpable in an act of or
 Then consider another scenario wherein, innocent detainees simply chant a phrase or a scriptural verse due to their cultural upbringing, to overcome the fear they are subjected to by their captors. There are even cases when people become entirely quiet or seemingly catatonic, or alternatively, start talking incessantly about other arbitrary things not related to the questions being asked to them, because their emotional capacity to cope with their situation is so inadequate, that they end up exhibiting those kinds of behaviors. During such instances, gas-lighting the detainees to extract a confession under duress, and to falsely criminalize or pathologize their apparent behaviors, is hurtful, wrongful, and unjust. 
 
 In the above types of cases, and in many other ones in which, a detainee simply walks out of an unlocked detention center and disappears due to the carelessness of the facility's officers and staff, can produce an eventual result, that is entirely outside the bounds of models used for explaining Nash Equilibrium. In real life, expecting a legally and politically dicey situation involving multi-ethnic and multi-national groups of people, to have a physical, deterministic Nash Equilibrium, by carelessly assuming that the expected equilibrium point's preconditions are satisfied, is moronic. But who can ever manage to explain this to indoctrinated policy makers who seek pop-science tidbits as a basis for justifying their policy decisions? Perhaps nobody or no one can. 
+
+---
 
 Such blog articles have been, and are being posted online regularly. They were, and are being sent to various public-facing inboxes of individuals or offices, via email, post, or a social-media platform such as Twitter (X), some of those recipients could become slightly irritated, for having their 'time wasted', by having read 'some meaningless and nonsensical, jargon filled tirades.' Many of those recipients might even use an excuse, to overlook or brush aside such materials, by convincing themselves that these articles were published and sent to them, in an utterly unorthodox fashion, through irregular channels, and worst of all, with content and stylization that has a bluntly irreverent tone with hard to understand language. 
 
