@@ -9,7 +9,7 @@ The premise of the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%2
 
 - Each of the apprehended individuals is labeled as a villainous operative, and is then held as a prisoner, in separate prison cells. 
 
-- It is further assumed that prior to being caught, each of the prisoners were a closely related collaborator, with one another, or with known felons. 
+- It is further assumed that prior to being caught, each of the prisoners were a closely related collaborator, with one another, or with other known felons. 
 
 - Creating a rift between them would be the only way for the policing agency to weaken their bond of friendship or camaraderie, in order to further interrogate them about their organization, and about their motives in entering the restricted or forbidden area. 
 
