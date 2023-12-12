@@ -84,10 +84,10 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
 <div align="center">
 
-|                                     | Proving &nbsp;&nbsp;&nbsp;&nbsp;| Disproving  |
-|:------------------------------------|---------------------------------|-------------|
-| <b>Condition <br>Exists</b>         | X                               | Y           |
-| <b>Condition <br>Does Not Exist</b> | Y                               | X           |
+|                                     | Proving &nbsp;&nbsp;| Disproving &nbsp;&nbsp; |
+|:------------------------------------|:-------------------:|:-----------------------:|
+| <b>Condition <br>Exists</b>         | X                   | Y                       |
+| <b>Condition <br>Does Not Exist</b> | Y                   | X                       |
 
 <p>Cells X are equivalent to cells Y in this "confusion matrix."
 </div>
