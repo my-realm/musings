@@ -33,11 +33,11 @@ You might say that the above information suddenly became a little too, oddly spe
 
 Regardless of the mathematical and game theoretic view that academicians may hold within their abstract thought-experiments, the reality of situations involving illegitimately detained persons, happens to be as such: 
 
->When innocent people are held in captivity for made up charges, any kind of a plea deal for a confession is unjust and is a disservice to those people. Use of corporeal punishments, torment, and torture, to break down human beings, in order for the broken individuals to seek respite from their suffering and from being violated, by submitting to a false confession, is far from any type of a just behavior that a regularized public service unit ought to ever commit.  
+>When innocent people are held in captivity for made up charges, any kind of a plea deal for a confession is unjust, and is a disservice to those trapped people. Use of corporeal punishments, sexual violence and reproductive harms, threats of deportation and deprivation, torment, and torture, to break down human beings, in order for the broken individuals to seek respite from their suffering and from being violated, by submitting to a false confession, is far from any type of a just behavior that a regularized public service unit, ought to ever commit or facilitate.  
 
 ---
 
-So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India, in order to comprehend the quantum mechanics version of the prisoners' dilemma. 
+So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India trapped in Qatar, in order to comprehend the quantum mechanics version of the prisoners' dilemma. 
 
 - We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do ["the Indian head-bobble",](https://youtu.be/EoJ4Bvsq7gQ) as a response. 
 
@@ -81,7 +81,7 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
     - I am certain that at least 1 out of 30 of the people who may have chanced upon any of this, and who happen to possess the acumen of at least, a business analyst, will figure out which parts of these digital artifacts with mixed-media content, can be used for advancing their own objectives. Of course, this might end up in the hands of people who are far more skilled and resourceful than 'business' analysts. However, it is more likely that 1 out of 300 people might do something consequential for social-justice, among those who have bothered to click on a link to this material, that they somehow received or obtained.
 
-- After the fact that a group of people in Ontario, Canada, managed to murderously violated my personhood, assassinated my character, repressed me out of religious discrimination, caused the death of my child, and repeatedly defiled my home, they were careless enough to give someone with my kind of work-experience and knowledge, the cover of pleading 'bouts of insanity', should the need ever arise. 
+- After the fact that a group of people in Ontario, Canada, managed to murderously violate my personhood, assassinated my character, repressed me out of religious discrimination, caused the death of my child, and repeatedly defiled my home during the course of 2019-2020, they were careless enough to give someone with my kind of work-experience and knowledge, the cover of pleading 'bouts of insanity', should the need ever arise. 
 
     - Of course, different bureaucratic agencies across various countries might end up "proving or disproving", the possibility of me "having or not having" any type of mental ailments or disabilities, and then try to block my bargaining options, if they were to compare their notes and surveillance data. But why and how would the ones in different continents of the Earth, ever cooperate for comparing their notes, on any subject matter, let alone for discerning and authenticating the identity of a harmless person like me?    
 
@@ -98,7 +98,7 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
 <br>
 
-So what exactly is it that I used to do, and why do I have detailed knowledge about certain category of topics, that most other people, simply wouldn't care to learn about? 
+So what exactly is it that I used to do, and why do I have detailed knowledge about certain categories of topics, that most other people, simply wouldn't care to learn about? 
 
 Well, if you are genuinely interested, start [here,][1] and then follow your own adventure while navigating through various and several pieces of digital artifacts and literature, published online by me. 
 
