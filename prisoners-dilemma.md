@@ -92,6 +92,8 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 <p>Cells X are equivalent to cells Y in this "confusion matrix."
 </div>
 
+<br>
+
 So what exactly is it that I used to do, and why do I have detailed knowledge about certain category of topics, that most other people, simply wouldn't care to learn about? 
 
 Well, if you are genuinely interested, start [here][1], and then follow your own adventure while navigating through various and several pieces of digital artifacts and literature, published online by me. 
