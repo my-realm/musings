@@ -5,7 +5,7 @@ By the time someone reaches graduate school while studying any mathematics or sc
 
 The premise of the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Premise) goes somewhat like this:
 
-- Two individuals assumed as belonging to an organization are caught by a policing agency when those individuals were observed as trespassing some kind of a restricted area. 
+- Two individuals assumed as belonging to an organization are caught by a policing agency, when those individuals are observed by "watchers", for having trespassed some kind of a restricted area. 
 
 - Each of the apprehended individuals is labeled as a villainous operative, and is then held as a prisoner, in separate prison cells. 
 
