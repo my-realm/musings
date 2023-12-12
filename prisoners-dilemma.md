@@ -79,7 +79,18 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
 - Take advantage of the fact that one group of people in Ontario, Canada, who murderously violated my personhood, assassinated my character, repressed me out of religious discrimination, caused the death of my child, and repeatedly defiled my home, were careless enough to give someone with my kind of work-experience and knowledge, the cover of pleading 'bouts of insanity', should the need ever arise. 
 
-    - Of course, different bureaucratic agencies across various countries might end up disproving the possibility of me not having any type of a mental ailment or a disability, and then block that option, if they were to compare their notes and surveillance data. But why and how would the ones in different continents of the Earth, ever cooperate for comparing their notes, on any subject matter, let alone for discerning and authenticating the identity of a harmless person like me?    
+    - Of course, different bureaucratic agencies across various countries might end up "proving or disproving", the possibility of me "having or not having" any type of mental ailments or disabilities, and then try to block that option, if they were to compare their notes and surveillance data. But why and how would the ones in different continents of the Earth, ever cooperate for comparing their notes, on any subject matter, let alone for discerning and authenticating the identity of a harmless person like me?    
+
+
+<div align="center">
+
+|                                     | Proving &nbsp;&nbsp;&nbsp;&nbsp;| Disproving  |
+|:------------------------------------|---------------------------------|-------------|
+| <b>Condition <br>Exists</b>         | X                               |             |
+| <b>Condition <br>Does Not Exist</b> | Y                               | X           |
+
+<p>Cells X are equivalent to cells Y in this "confusion matrix."
+</div>
 
 So what exactly is it that I used to do, and why do I have detailed knowledge about certain category of topics, that most other people, simply wouldn't care to learn about? 
 
