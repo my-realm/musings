@@ -86,7 +86,7 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
 |                                     | Proving &nbsp;&nbsp;&nbsp;&nbsp;| Disproving  |
 |:------------------------------------|---------------------------------|-------------|
-| <b>Condition <br>Exists</b>         | X                               |             |
+| <b>Condition <br>Exists</b>         | X                               | Y           |
 | <b>Condition <br>Does Not Exist</b> | Y                               | X           |
 
 <p>Cells X are equivalent to cells Y in this "confusion matrix."
