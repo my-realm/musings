@@ -79,7 +79,7 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 
 - After the fact that a group of people in Ontario, Canada, managed to murderously violated my personhood, assassinated my character, repressed me out of religious discrimination, caused the death of my child, and repeatedly defiled my home, they were careless enough to give someone with my kind of work-experience and knowledge, the cover of pleading 'bouts of insanity', should the need ever arise. 
 
-    - Of course, different bureaucratic agencies across various countries might end up "proving or disproving", the possibility of me "having or not having" any type of mental ailments or disabilities, and then try to block that option, if they were to compare their notes and surveillance data. But why and how would the ones in different continents of the Earth, ever cooperate for comparing their notes, on any subject matter, let alone for discerning and authenticating the identity of a harmless person like me?    
+    - Of course, different bureaucratic agencies across various countries might end up "proving or disproving", the possibility of me "having or not having" any type of mental ailments or disabilities, and then try to block my bargaining options, if they were to compare their notes and surveillance data. But why and how would the ones in different continents of the Earth, ever cooperate for comparing their notes, on any subject matter, let alone for discerning and authenticating the identity of a harmless person like me?    
 
 
 <div align="center">
