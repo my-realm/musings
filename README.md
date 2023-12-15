@@ -7,3 +7,5 @@ Some philosophical and free-form expressions.
 ### [2023-11-15 | Browser Hardening](https://github.com/my-realm/musings/blob/main/browser-hardening.md)
 
 ### [2023-12-12 | Prisoners' Dilemma](https://github.com/my-realm/musings/blob/main/prisoners-dilemma.md)
+
+### [2023-12-15 | Democratic Newsrooms](https://github.com/my-realm/musings/blob/main/democratic-newsrooms.md)
