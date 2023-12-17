@@ -1,32 +1,52 @@
 ## Browser Hardening
 
+***Most important caveat in tech hardening:*** Customizing any of the performance-related `config` settings of your browser, might not provide the desired result across websites, and may eventually become an obsolete or an unnecessary change, once the default settings of your browser become improved along with its updated versions. You can backup the `prefs.js` file of your profile before trying these types of experiments. 
+
+The `user.js` file available in the following repository was created for being utilized with a [Firefox Nightly](www.mozilla.org/en-US/firefox/nightly/notes/) browser. Its settings were decided upon, using research gathered from the given links in the references section.
+
+>https://github.com/psyedout/firefox-user-prefs/ 
+
+<br>
+
+---
+
+### Introduction 
+
 The entire internet is a giant file-system, so to speak. Browsing files within the searchable world-wide-web of the internet, by accessing websites using a [web browser app](https://en.wikipedia.org/wiki/Comparison_of_web_browsers), is similar to walking around in a large public library and viewing the available books or magazines, while advertising and intelligence agencies constantly follow you around, looking over your shoulder, to figure out what you are viewing. Once they have a stereotyped idea about your online behavior and browsing preferences, they can suggest to you, a range of 'suitable' things that you may find attractive, so as to steer you towards those things via advertisements. 
 
-How did those agencies ever determine what's best for you, and for your current or future needs? Answers to such ordinary questions that impact the lives of the public at large, are kept private and secret by those agencies, from the public, and especially from jobless people, for "business or national security reasons", and "for *your* own 'good.'" As such, your privacy and confidentiality is none of your concern as a matter of personal right, preference, or of your private and personal interests. 
+How did those agencies ever determine what's best for you, and for your current or future needs? Answers to such ordinary questions that impact the lives of the public at large, are kept private and secret by those agencies, from the public, and especially from self-actualized people, for "business or national security reasons", and also, "for *your* own 'good.'" As such, your privacy and confidentiality is none of your concern as a matter of personal right, preference, or of your private and personal interests. 
 
 >For all manner of intents and purposes, if one has to invest their personal attention towards something, then that something naturally becomes a matter of personal interest and business. Plus, there is no business that is worth attending to, and investing any attention towards, unless that something is somehow, personally relevant or intriguing. Wouldn't you agree? 
 
 As such, why would you, ever bother to attend to something or someone, if that item, event, or person, had absolutely nothing to do with you and with your existence in this universe? 
 
-So, in this article, I'm going to go over some of my thoughts and musings, on how to harden a browser, specifically a Mozilla one, for... you know, privacy purposes. This is because, whether you as an individual, do or don't have a single clue, about any of the things that might be worthwhile in aiding your progress, on your unique path in life, compared to the views held by arbitrary corporate entities and their workers regarding who you are, and what you ought to be, you might as well start meditating deeply about the worthiness of your attention and lifespan, at least now that you have somehow ventured into reading this article. 
+So, in this article, I'm going to go over some of my thoughts and musings, on how to harden a browser, specifically a Mozilla one, for... you know, privacy purposes. This is because, whether you as an individual, do or don't care about your privacy, or about any of the things that might be worthwhile in aiding your progress, on your unique path in life, you might as well start meditating deeply about the worthiness of your attention and lifespan, at least now that you have somehow ventured into reading this article. In doing so, you might be surprised to learn that your own views about yourself, might be different, compared to the views held by arbitrary advertising companies and their workers regarding who you are, and what you ought to be.
 
+---
 
-***Most important caveat in tech hardening:*** Customizing any of the performance-related `config` settings of your browser, might not provide the desired result across websites, and may eventually become an obsolete or an unnecessary change, once the default settings of your browser become improved along with its updated versions. You can backup the `prefs.js` file of your profile before trying these types of experiments. 
-
-The following `user.js` file was created for being utilized with a [Firefox Nightly](www.mozilla.org/en-US/firefox/nightly/notes/) browser, using research gathered from the given links in the references section.
-
->**https://github.com/psyedout/firefox-user-prefs/blob/main/user.js**  
-
-<br>
+### A note about latest browsers
 
 A Firefox Nightly build often has various "bleeding-edge quirks", which can be problematic for regular browsing experience, as they can break a web-designer's intended display of a website's content. However, the main purpose of using the given `user.js` profile is to browse plain-text websites, with a level of anonymity that can be safe and secure for the end-user, with an emphasis on prioritizing the needs of the end-user, over that of the website designer's artistic endeavors. 
 
 The priority of end-user accessibility needs, anonymity, secrecy, privacy, security, and confidentiality are also to be maintained above the needs of the types of marketers and advertisers, who tend to conduct phishing and watering-hole attacks to parasitically extract "business intelligence" from all online devices and web-users. 
 
-You can view the current settings of your Mozilla browser, and the subsequent changes you may have adopted, through the `about:support` page, which can be accessed via the URLbar of your Firefox browser. 
+To get started: 
 
-To utilize a `user.js` file for a Mozilla browser, copy and paste it into the required "AppData" folder, which is better explained in the linked guide, videos from TechLore, or in the Arkenfox wiki. 
+1. You can view the current settings of your Mozilla browser, and the subsequent changes you may have adopted, through the `about:support` page, which can be accessed via the URLbar of your Firefox browser. 
 
+1. To utilize a `user.js` file for a Mozilla browser, copy and paste it into the required "AppData" folder, which is better explained in the guide, videos from TechLore, or in the Arkenfox wiki provided in the references section. 
+
+After blocking fingerprinting methods related to local storage, canvas, WebGL, WebRTC, screen resolution, audio context, clipboard, PDF-js, and other components like camera, graphics card, memory chips, battery pack, network adapters, BlueTooth module, and gyroscopes, that are unique to your hardware device; the eventual objective is to <ins>not</ins> have a drastically different looking combination of internet service provider, browser, default language, timezone, fonts list, browser plugins, and operating system being used by you, for your online activities, compared to other online entities. What the current settings of your browser's UserAgent can reveal to common websites, can be tested using these examples - 
+
+1. https://www.deviceinfo.me/
+
+1. https://amiunique.org/ 
+
+1. https://browseraudit.com/
+
+<br>
+
+---
 
 ### References:
 
@@ -54,17 +74,7 @@ To utilize a `user.js` file for a Mozilla browser, copy and paste it into the re
 
 ---
 
-After blocking fingerprinting methods related to local storage, canvas, WebGL, WebRTC, screen resolution, audio context, clipboard, PDF-js, and other components like camera, graphics card, memory chips, battery pack, network adapters, BlueTooth module, and gyroscopes, that are unique to your hardware device; the eventual objective is to <ins>not</ins> have a drastically different looking combination of internet service provider, browser, default language, timezone, fonts list, browser plugins, and operating system being used by you, for your online activities, compared to other online entities. What the current settings of your browser's UserAgent can reveal to common websites, can be tested using these examples - 
-
-1. https://www.deviceinfo.me/
-
-1. https://amiunique.org/ 
-
-1. https://browseraudit.com/
-
-<br>
-
----
+<details><summary><h3>Few other thoughts and opinions on individual privacy</h3></summary>
 
 The above method may be helpful and useful, in avoiding advertisements that can clutter your browsing experience, although the very same method might make you more conspicuous to public security and policing agencies, that happen to continuously monitor all incoming and outgoing online traffic, in your geolocation's region. 
 
@@ -89,3 +99,5 @@ Therefore, you may be able to understand and agree that: as the thieves, usurper
 Now, would the pillagers and marauders increase the range of their threats, violations, and subversive actions directed at you, if you were to harden your online and on-ground defenses to become more resilient? If you attempt to prevent molesters from groping you and your data, would they become more heavy-handed in wanting to violate you, with much more forceful and mechanistic zeal? They would, as they always have, not only because they can, but because they simply cannot tolerate the idea that there can exist such beings in this universe, who will not allow themselves to be subdued or preyed upon, by parasitic and predatory capitalists. The only thing that those fiends know to do, because of their age-old colonial habits, is to evade detection while sapping and violating every other person's privacy, in order to steal valuable personal, private, and confidential information of targeted individuals and groups, all the while, maintaining their own anonymity and secrecy. They know all too well that, "information is power", and they intend to have supreme power over all individuals and peoples, throughout all possible realms. 
 
 So, after you have come to realize that those rotten fiends will never stop, under any circumstances, only to hurt and destroy every relationship you've ever cared for, because they already have, and that those conniving and beguiling cheats will continue to usurp power, to make your life increasingly difficult, and that they will continue to use their insidious ways to injure each and every person you can ever love or care about, you will figure out a new approach to life, by either choosing to submit to them, or by choosing to be free. 
+
+</details>
