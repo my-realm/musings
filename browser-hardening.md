@@ -28,6 +28,8 @@ To utilize a `user.js` file for a Mozilla browser, copy and paste it into the re
 
 ### References:
 
+1. https://www.eff.org/pages/surveillance-self-defense
+
 1. https://github.com/techlore
 
 1. https://arkenfox.github.io/gui/
