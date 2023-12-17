@@ -15,13 +15,15 @@ So, in this article, I'm going to go over some of my thoughts and musings, on ho
 
 The following `user.js` file was created for being utilized with a [Firefox Nightly](www.mozilla.org/en-US/firefox/nightly/notes/) browser, using research gathered from the given links in the references section.
 
->https://github.com/psyedout/firefox-user-prefs/blob/main/user.js  
+>**https://github.com/psyedout/firefox-user-prefs/blob/main/user.js**  
+
+<br>
 
 A Firefox Nightly build often has various "bleeding-edge quirks", which can be problematic for regular browsing experience, as they can break a web-designer's intended display of a website's content. However, the main purpose of using the given `user.js` profile is to browse plain-text websites, with a level of anonymity that can be safe and secure for the end-user, with an emphasis on prioritizing the needs of the end-user, over that of the website designer's artistic endeavors. 
 
 The priority of end-user accessibility needs, anonymity, secrecy, privacy, security, and confidentiality are also to be maintained above the needs of the types of marketers and advertisers, who tend to conduct phishing and watering-hole attacks to parasitically extract "business intelligence" from all online devices and web-users. 
 
-You can view the current settings, and the subsequent changes done to them, through the `about:support` page, which can be accessed via the URLbar of your Firefox browser. 
+You can view the current settings of your Mozilla browser, and the subsequent changes you may have adopted, through the `about:support` page, which can be accessed via the URLbar of your Firefox browser. 
 
 To utilize a `user.js` file for a Mozilla browser, copy and paste it into the required "AppData" folder, which is better explained in the linked guide, videos from TechLore, or in the Arkenfox wiki. 
 
