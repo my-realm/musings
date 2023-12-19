@@ -20,7 +20,7 @@ The subjective notion of clarity versus obscurity, invariably comes into the pic
 
 Explanations, certainly do need to have a particular level of granularity and aesthetic appeal, that suits the capacities, preferences, and tastes of a target audience. Attempting to homogenize the entirety of human species throughout the ages and across the whole universe, into a single clump, to shoehorn the desired worldviews of Euro-centric evangelists on topics pertaining to science, religion, sociology, geopolitics, arts, or any other field of study, is quite offensive to those who appreciate diversity, as being an indispensable contribution to anthropology and as an intrinsic quality of nature.   
 
-Subjective opinions are interpreted subjectively by human beings, but so are objective models and pieces of evidences. 
+Subjective opinions are interpreted subjectively by human beings, but so are objective models and pieces of evidence. 
 
 Indeed, if the edge of a theory or a model, is too thin and brittle, or too soft, it won't be sharp and tough enough to cut through the fog and grit of uncertainty. Please see video on, *"Splitting Hairs"* - https://youtu.be/aqkzQfpn3-E 
 
