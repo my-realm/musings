@@ -1,8 +1,8 @@
-## The Multiverse and The Need for Appreciating Diversity
+## Multiverse and The Need for Appreciating Diversity
 
 Would you place yourself above and beyond God, to assert limitations upon God's Godliness by your dictum, in order to prevent or curtail God from creating infinitely many universes, all running in parallel, each of infinite expanse, and, each existing with a variety of differences among their constituent things. 
 
-Now, if you don't like theology, and want a sentence that sounds more science like, ask yourself if a planet or a solar system, or a galaxy, or a cluster of galaxies and so on, can exist due to a superposition of: planets, solar systems, galaxies, galaxy clusters, and other celestial entities? 
+Now, if you don't like theology, and want a sentence that sounds more science like, ask yourself if a planet or a solar system, or a galaxy, or a cluster of galaxies and so on, can exist due to a superposition of: planets, solar systems, galaxies, galaxy clusters, and other celestial things? 
 
 In pondering answers to such questions pertaining to theoretical physics, one might be able to arrive at a conception of what the words and phrases like, "superposition" and "multiverse", are supposed to mean, especially if one considers the entire universe that we happen to live in, to exist as a superposition of dynamic interactions among certain irreducible, ontic things. 
 
