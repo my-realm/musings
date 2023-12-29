@@ -19,4 +19,4 @@ Of course, there would then remain the matter concerning: "How many more state-s
 The theft of intellectual properties by employers in any country, is an entirely ordinary and a frequent occurrence. Any entity from North American or the UK, which may claim that they have patented the stolen intellectual properties, to have thus "laundered" the copyrighted materials, would only prove further evidence of the way innocent people and skilled workers have continued to be exploited by predatory institutes and corporations. As such, the manner in which, North American state-sponsored and state-regulated organizations have continued to infringe upon the rights of students and workers, is profound, when the magnitude of the theft across institutes like UIowa over the past decades is taken into account. But the clear and truthful evidence showcasing the nature of that profound crime, is most certainly ordinary. 
 
 
-[^1]: DARPA - Defense Advanced Research and Projects Agency, USA. 
+[^1]: [DARPA - Defense Advanced Research and Projects Agency, United States Department of Defense, USA.](https://en.wikipedia.org/wiki/DARPA) 
