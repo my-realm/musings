@@ -1,11 +1,11 @@
-Date-Time: 2023_12_29--UTC-0201 | Author: Sameer A. Khan | License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) <br/>(The license is applicable only to this article, and not to any linked material or content.)
+Date-Time: 2023_12_29--UTC-0259 | Author: Sameer A. Khan | License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) <br/>(The license is applicable only to this article, and not to any linked material or content.)
 
 ---
 ## Ordinary Evidence
 
 Extraordinary claims require extraordinary evidence! No, not really. A claim of any expected size, only requires clear and truthful evidence.  
 
-Evidence showcasing repeated infringements of intellectual properties and abuse of moral rights, each belonging to international students and workers, by state-sponsored entities like University of Iowa (UIowa) in the USA, via improper employment contracts, is as clear as clear can be, and as truthful as truthful can be. 
+Evidence showcasing repeated infringements of intellectual properties and abuse of moral rights, such as those belonging to international students and workers, by state-sponsored entities like University of Iowa (UIowa) in the USA, via improper employment contracts, is as clear as clear can be, and as truthful as truthful can be. 
 
 Analysts and investigators must keep in mind that, the meaning of the word "intellectual properties", also happens to include authored materials and work outputs, that weren't patented, but had copyrights attributed only to the original authors of those materials. Searching only through patent databases for a potential breach or infringement of intellectual property rights, obviously would not produce significant results about the myriad of research and development materials, composed by authors who never assigned or transferred those compositions to their employers or to any other entity. But, none-the-less, those workers had their compositions and work outputs with their default copyrights, misappropriated by their employers. 
 
