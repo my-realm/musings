@@ -1,4 +1,4 @@
-Date-Time: 2023_12_29--UTC-0153 | Author: Sameer A. Khan | License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+Date-Time: 2023_12_29--UTC-0201 | Author: Sameer A. Khan | License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) <br/>(The license is applicable only to this article, and not to any linked material or content.)
 
 ---
 ## Ordinary Evidence
