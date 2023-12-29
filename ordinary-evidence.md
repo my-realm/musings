@@ -1,3 +1,6 @@
+Date-Time: 2023_12_29--UTC-0153 | Author: Sameer A. Khan | License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
+---
 ## Ordinary Evidence
 
 Extraordinary claims require extraordinary evidence! No, not really. A claim of any expected size, only requires clear and truthful evidence.  
