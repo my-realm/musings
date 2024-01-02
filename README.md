@@ -13,3 +13,5 @@ Some philosophical and free-form expressions.
 ### [2023-12-19 | About Multiverse and Diversity](https://github.com/my-realm/musings/blob/main/about-multiverse-and-diversity.md)
 
 ### [2023-12-29 | Ordinary Evidence](https://github.com/my-realm/musings/blob/main/ordinary-evidence.md)
+
+### [2023-01-02 | The Redeemer](https://github.com/my-realm/musings/blob/main/the-redeemer.md)
