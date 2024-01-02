@@ -4,7 +4,7 @@
 
 To step out of the comfort provided by obliviousness, to correctly ascertain one's bearings in order to discern the right directional heading, one needs to withstand the burden of holding verifiable truths, within open palms, and to similarly receive aid from The Divine, with an open heart. 
 
-To grasp a truth, with tightly clasped fists, within one's palms, can become agonizingly painful, especially when the truth being held onto, happens to be analogous to white-hot coal. It is wise to be able to let go of a truth with open palms, when it is too painful to bear. But in doing so, one does not relinquish the learning derived from painful truths, to yet again adopt stupidity or carelessness. 
+To grasp a truth, with tightly clasped fists, within one's palms, can become agonizingly painful, especially when the truth being held onto, happens to be analogous to white-hot coal. So, it is wise to be able to let go of a truth with open palms, when it is too painful to bear. But in doing so, one does not relinquish the learning derived from painful truths, to yet again adopt stupidity or carelessness. 
 
 For example, the horrors and terrors inflicted upon innocent people by colonial and supremacist forces, is indeed a painful truth for Canadian citizens to admit and accept, and to then prominently maintain the learning from that truth, within Canada's collective conscience. Ignoring, denying, undercutting, downplaying, or sidelining those truths, for moving onto becoming comfortably numb and oblivious, is cowardly, disgraceful, shameful, condescendingly contemptuous, deceitful, conceited, and unforgivably wrong, because doing so, dishonors the lives and respective heritage of countless survivors, and victims, of colonialism and predatory capitalism. 
 
