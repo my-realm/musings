@@ -1,0 +1,11 @@
+## The Unforgivable 
+
+In what way can the deeds of Canada against First Nations people, indigenous communities, ethnic minorities, and newcomers be forgiven? In what conceivable way can they be forgotten, especially when those heinous deeds are still ongoing? 
+
+Consider the number of times a Canadian judge has thrown out cases related to payment of reparations to victims and survivors of human rights violations, and of Canada's state-sponsored crimes; or all the ways in which the material evidence pertaining to those cases are labeled as inadmissible, and are thus, not even allowed to reach a court in North America and Europe. The forceful ways in which the Canadian judiciary has repeatedly enforced the longstanding and continued forms of injustice against vulnerable people, is simply unforgivable and unforgettable. 
+
+Consider the ways in which, yet another November is going to come by, and Canada is going to celebrate ignoble military units that have contributed to biochemical warfare via the supply of tons of Agent Orange, and have also committed serial mass murders of innocent civilians within and outside Canada, only to defile habitats of indigenous people in the Americas, South-East Asia, and Indo-Pacific Islands. 
+
+However, most importantly, consider all the ways in which the United Church in Canada has only skirted its responsibility to strongly condemn the wrongdoings of men and women of parishes involved in rape, molestation, or murder of innocent children stolen from their homes and parents, in the name of 'reforming' those children in "residential schools." Has it ever been a priority of the Knox or the United Church, or that of any other religious organization in Canada affiliated to mainstream faith groups, to obtain proper justice for victims and survivors of Canada's institutionalized wrongdoings? 
+
+On what basis should the world ever trust Canada and Canadian institutions, particularly ones like the IRCC, that continue to have bigoted and racist ideologies baked into their policies and practices? Is it somehow forgivable for [IRCC policies and practices, to be identical to Nazi ideologies,](https://github.com/callthis/editorial/blob/main/docs/02-3-2-1.md#2321-bigotry-and-racial-prejudices-embedded-within-the-functions-of-ircc) with objectives of systematically hurting and breeding out 'the unwanted?'  
