@@ -1,4 +1,4 @@
-# musings
+# Musings
 
 Some philosophical and free-form expressions.
 
@@ -15,3 +15,5 @@ Some philosophical and free-form expressions.
 ### [2023-12-29 | Ordinary Evidence](https://github.com/my-realm/musings/blob/main/ordinary-evidence.md)
 
 ### [2023-01-02 | The Redeemer](https://github.com/my-realm/musings/blob/main/the-redeemer.md)
+
+### [2023-01-05 | The Unforgivable](https://github.com/my-realm/musings/blob/main/the-unforgivable.md)
