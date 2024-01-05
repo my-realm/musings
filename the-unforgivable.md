@@ -1,6 +1,6 @@
 ## The Unforgivable 
 
-In what way can the deeds of Canada against First Nations people, indigenous communities, ethnic minorities, and newcomers be forgiven? In what conceivable way can they be forgotten, especially when those heinous deeds are still ongoing? 
+In what way can Canada's genocidal actions against First Nations peoples, indigenous communities, ethnic minorities, and newcomers, ever be forgiven? In what conceivable way can they be forgotten, especially when those heinous deeds are still ongoing? 
 
 Consider the number of times a Canadian judge has thrown out cases related to payment of reparations to victims and survivors of human rights violations, and of Canada's state-sponsored crimes; or all the ways in which the material evidence pertaining to those cases are labeled as inadmissible, and are thus, not even allowed to reach a court in North America and Europe. The forceful ways in which the Canadian judiciary has repeatedly enforced the longstanding and continued forms of injustice against vulnerable people, is simply unforgivable and unforgettable. 
 
