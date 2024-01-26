@@ -2,6 +2,8 @@
 
 Some philosophical and free-form expressions.
 
+## 2023
+
 ### [2023-10-21 | About Infinity](https://github.com/my-realm/musings/blob/main/about-infinity.md)
 
 ### [2023-11-15 | Browser Hardening](https://github.com/my-realm/musings/blob/main/browser-hardening.md)
@@ -14,8 +16,13 @@ Some philosophical and free-form expressions.
 
 ### [2023-12-29 | Ordinary Evidence](https://github.com/my-realm/musings/blob/main/ordinary-evidence.md)
 
-### [2023-01-02 | The Redeemer](https://github.com/my-realm/musings/blob/main/the-redeemer.md)
 
-### [2023-01-05 | The Unforgivable](https://github.com/my-realm/musings/blob/main/the-unforgivable.md)
+## 2024
 
-### [2023-01-08 | The Recompense](https://github.com/my-realm/musings/blob/main/the-recompense.md)
+### [2024-01-02 | The Redeemer](https://github.com/my-realm/musings/blob/main/the-redeemer.md)
+
+### [2024-01-05 | The Unforgivable](https://github.com/my-realm/musings/blob/main/the-unforgivable.md)
+
+### [2024-01-08 | The Recompense](https://github.com/my-realm/musings/blob/main/the-recompense.md)
+
+### [2024-01-26 | Basic Human Rights](https://github.com/my-realm/musings/blob/main/basic-human-rights.md)
