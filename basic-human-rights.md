@@ -2,7 +2,7 @@ Date-Time: 2024_01_26--UTC-1400 | Author: Sameer A. Khan | License: [CC-BY-NC-4.
 
 ## Basic Human Rights
 
-Of the numerous rights that are acknowledged as necessary and fundamental to functioning as a decent human being,[^1] the topic of right to sexual and reproductive health is often overlooked. Indeed, such important topics are sidelined by so-called educated councilors, during legislation of laws and programs aimed at protecting denizens of their jurisdiction, from being harmed and injured by violators. 
+Of the numerous rights that are acknowledged as necessary and fundamental to functioning as a decent human being in society,[^1] the topic of right to sexual and reproductive health is often overlooked. Indeed, such important topics are sidelined by so-called educated councilors, during legislation of laws and programs aimed at protecting denizens of their jurisdiction, from being harmed and injured by violators. 
 
 Particularly when it comes to the legal definition of rape, the presence or absence of violence, need not be a sticking point. 
 
