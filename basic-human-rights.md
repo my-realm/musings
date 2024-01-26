@@ -6,7 +6,7 @@ Of the numerous rights that are acknowledged as necessary and fundamental to fun
 
 Particularly when it comes to the legal definition of rape, the presence or absence of violence, need not be a sticking point. 
 
-Sexual acts thrust upon an infirm, inchoate, disabled, vulnerable, or an incapacitated person is a violation of the person's right to forthright information and to be protected against bodily and psychological harms. Those sexual acts might not involve the use of force or violence, and may instead, involve the use of manipulation, duress, prodding, coercion, misdirection, secrecy, and deception due to which, those acts are a violation and an abuse of the victim's basic human rights to physical well being, reproductive health, and personal safety. 
+Sexual acts thrust upon an infirm, inchoate, disabled, vulnerable, or an incapacitated person is a violation of the person's right to forthright information and to be protected against bodily and psychological harms. Those sexual acts might not involve the use of force or violence, and may instead, involve the use of manipulation, duress, prodding, coercion, misdirection, sedatives, secrecy, and deception due to which, those acts are a violation and an abuse of the victim's basic human rights to physical well being, reproductive health, and personal safety. 
 
 The EU recently failed to observe and to include such basic legal concepts in the definition of rape, for legislating a proper directive on combating violence against women and domestic violence.[^2] 
 
