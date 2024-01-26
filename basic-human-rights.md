@@ -16,7 +16,7 @@ Especially, when the victims are too young, too old, and otherwise impaired or v
 
 In a more generalized sense, categorically identifying the level of violence or manipulation used by offenders in overriding a victim's rights, in causing the victim or other members of society to suffer harms or damages, can also be defined formally using standardized procedures. 
 
-Now, why am I qualified to give any kind of an opinion on such matters? I am no one, and entities within organizations like the US government have continued to find cunning ways to abuse the labors and work outputs of people like me, in violation of our moral rights and freewill, to come up with ways for their agencies with three or four letter acronyms, to circumvent local as well as international statutory laws and conventions.  
+Now, why am I qualified to give any kind of an opinion on such matters? I am no one, and entities within organizations like the US government have continued to find cunning ways to abuse the labors and work outputs of people like me, in violation of our moral rights and freewill, to then allow their agencies with three or four letter acronyms, to circumvent local as well as international statutory laws and conventions.  
 
 So, if you are asked, who pointed you towards such seemingly unsolicited views or opinions? You can say, "no one did." And that you found such articles on your own by checking your social media feed. 
 
