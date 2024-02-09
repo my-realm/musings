@@ -26,3 +26,5 @@ Some philosophical and free-form expressions.
 ### [2024-01-08 | The Recompense](https://github.com/my-realm/musings/blob/main/the-recompense.md)
 
 ### [2024-01-26 | Basic Human Rights](https://github.com/my-realm/musings/blob/main/basic-human-rights.md)
+
+### [2024-02-09 | Basic Human Rights](https://github.com/my-realm/musings/blob/main/about-autism.md)
