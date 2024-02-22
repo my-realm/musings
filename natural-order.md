@@ -1,6 +1,6 @@
 ## Change Is The Only Natural Order
 
-Measure of entropy in a system is not about "order", or "disorder" within the system, it is only about the extent to which changes in one sub-component of the system (at any given starting point of observation) can physically influence other sub-components or adjacent parts of an ensemble (within finite time steps or computation cycles). 
+Measure of entropy in a system is not about "order", or "disorder" within the given system, it is only about the extent to which changes in one sub-component of the system (at any given starting point of observation) can physically influence other sub-components or adjacent parts of an ensemble (within finite time steps or computation cycles). 
 
 How loosely versus rigidly, sub-components in an ensemble happen to be coupled together or interconnected with each other, to be able to transmit changes from one part of the ensemble to another, is a momentary measure of information transfer within the system; that is, knowledge discovery becomes feasible only when a measure of entropy of a system, is noted by an observer coupled to that system within a much larger ensemble.  
 
