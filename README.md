@@ -30,3 +30,5 @@ Some philosophical and free-form expressions.
 ### [2024-02-09 | About Autism](https://github.com/my-realm/musings/blob/main/about-autism.md)
 
 ### [2024-02-22 | Natural Order](https://github.com/my-realm/musings/blob/main/natural-order.md)
+
+### [2024-02-29 | Educational Content](https://github.com/my-realm/musings/blob/main/educational-content.md)
