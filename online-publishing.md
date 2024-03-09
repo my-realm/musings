@@ -31,7 +31,7 @@ Let us try to picture or tabulate, what that decision process for an intelligenc
 
   **Table 1:** Generic decision matrix for evaluating an outcome
 
-But regardless of what the predicted output from a statistical or a simulation based model turns out to be, on a daily or even a minute-by-minute basis, there remains a gap between taking a model's output, and then actually doing something tangible (concrete) based on it. A decision to withhold a certain type of action, is of course, an action in itself. 
+But regardless of what the predicted output from a statistical or a simulation based model turns out to be, on a daily or even a minute-by-minute basis, there remains a gap between taking a model's output, and then actually doing something tangible (concrete) with it. A decision to withhold a certain type of action based on some type of a model or intel, is of course, an action in itself. 
 
 So, let us try to make the above set of ideas, more palpable, by going through a hypothetical scenario. 
 
