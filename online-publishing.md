@@ -12,7 +12,7 @@ Let's call them Alphas. So, the Alphas conveniently have a "first mover advantag
 
 However, I tend to edit and revise the "artistic" content I create, after it is initially published online, from time to time. So, maybe, simply waiting for a day or two before viewing my online self-published content, could be beneficial for obtaining more accurate and clear pieces of knowledge, from those files. 
 
-Of course, there are many private articles and research notes on various topics that I have written, and keep writing, which are yet to be published. Those articles and notes are merely sitting in my computer, and maybe, just maybe, the Alphas could have got their hands on those files. Does that matter to anyone, is it significant or important in any respect? Who knows? ¯\__(ツ)__/¯ 
+Of course, there are many private articles and research notes on various topics that I have written, and keep writing, which are yet to be published. Those articles and notes are merely sitting in my computer, and maybe, just maybe, the Alphas could have got their hands on those files. Does that matter to anyone, is it significant or important in any respect? Who knows? ¯ \ _ (ツ) _ / ¯ 
 
 In any case, I can only assume, that the decisions or judgments taken by any group that has advanced monitoring and surveillance capabilities, is hopefully, not wasting their resources and efforts in vein, by using tax-payer monies for conducting real-time surveillance on little ol' me. 
 
