@@ -12,6 +12,6 @@ So, would it be too erroneous by some convention or a standard, to posit the ide
 
 ---
 
-- Here is a nice introductory video by YouTuber *Tibees* about higher as well as fractal dimensions, and hyperspheres - [Understand Hyperspheres](https://www.youtube.com/watch?v=LA4RRdfvXIo) 
+- Here is a nice introductory video by YouTuber *Tibees* about higher as well as fractal dimensions, and hyperspheres: [Understand Hyperspheres](https://www.youtube.com/watch?v=LA4RRdfvXIo) 
 
-- And here are a set of videos by YouTuber *mtbdesignworks* with a more visual approach to exploring 4D objects, via computer aided design - [4D Toys](https://www.youtube.com/@mtbdesignworks/videos)
+- And here are a set of videos by YouTuber *mtbdesignworks* with a more visual approach to exploring 4D objects, via computer aided design: [4D Toys](https://www.youtube.com/@mtbdesignworks/videos)
