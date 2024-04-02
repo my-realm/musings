@@ -8,6 +8,11 @@ If the rich symbolism, historical references, and meaning of the word servicemen
 
 Also, if one were to change the color space of the movie while watching it, to make it a bit more playful and surreal, the themes of the movie may shine through, in a much more magical way. My personal opinion of and rating for the movie, "The American Society of Magical Negros", is a must see and a 7/10.
 
+<div align="center">
+  <img width="60%" src="https://i.ibb.co/1K0DKqn/the-american-society-of-magical-negros-color-space-shift.jpg"></img>
+  <p><b>Src:</b> The American Society of Magical Negroes, Universal Pictures | Focus Features</p>
+</div>
+
 Lastly, as a slightly tangential side note, and as a gift to movie buffs, I'd like to mention and recommend the Indian movie, "Chintu Ka Birthday." It tells a placid story of a group of Indian expats in Iraq, who like the Iraqi, were and continue to be expected to put up and shut up, against every act of cruelty, torment, and oppression thrust upon them, while they are further expected to be "cheerfully humble, cooperative, and subservient" in every conceivable situation, by colonialists and supremacists. 
 
 #ForFunAndUnions #ForDiversityHires #SOSWAG
