@@ -6,7 +6,7 @@ Sadly, most of the movie's reviews have subversively marginalized the honest tal
 
 If the rich symbolism, historical references, and meaning of the word servicemen or sargent, available in each frame of the movie were to be highlighted one-by-one, to lay audience members, it still wouldn't make any sense, to viewers who have chosen to remain 'tone deaf' and 'color blind' to the plight of people in this world who happen to have colored skin or non-white heritage. 
 
-Also, if one were to change the color space of the movie while watching it, to make it a bit more playful and surreal, the themes of the movie could shine through, in a much more magical way. My personal opinion of and rating for the movie, *"The American Society of Magical Negros",* is a must see and a 7/10.
+Also, if one were to change the color space of the movie while watching it, to make it a bit more playful and surreal, the themes of the movie could shine through, in a much more magical way. My personal opinion of and rating for the movie, *"The American Society of Magical Negros",* is a must watch and a 7/10.
 
 <br>
 <div align="center">
