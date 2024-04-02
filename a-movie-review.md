@@ -6,7 +6,7 @@ Sadly, most of the movie's reviews have subversively marginalized the honest tal
 
 If the rich symbolism, historical references, and meaning of the word servicemen or sargent, available in each frame of the movie were to be highlighted one-by-one, to lay audience members, it still wouldn't make any sense, to viewers who have chosen to remain 'tone deaf' and 'color blind' to the plight of people in this world who happen to have colored skin or non-white heritage. 
 
-Also, if one were to change the color space of the movie while watching it, to make it a bit more playful and surreal, the themes of the movie may shine through, in a much more magical way. My personal opinion of and rating for the movie, "The American Society of Magical Negros", is a must see and a 7/10.
+Also, if one were to change the color space of the movie while watching it, to make it a bit more playful and surreal, the themes of the movie could shine through, in a much more magical way. My personal opinion of and rating for the movie, *"The American Society of Magical Negros",* is a must see and a 7/10.
 
 <br>
 <div align="center">
@@ -15,6 +15,6 @@ Also, if one were to change the color space of the movie while watching it, to m
 </div>
 <br>
 
-Lastly, as a slightly tangential side note, and as a gift to movie buffs, I'd like to mention and recommend the Indian movie, "Chintu Ka Birthday." It tells a placid story of a group of Indian expats in Iraq, who like the Iraqi, were and continue to be expected to put up and shut up, against every act of cruelty, torment, and oppression thrust upon them, while they are further expected to be "cheerfully humble, cooperative, and subservient" in every conceivable situation, by colonialists and supremacists. 
+Lastly, as a slightly tangential side note, and as a gift to movie buffs, I'd like to mention and recommend the Indian movie, *"Chintu Ka Birthday."* It tells a placid story of a group of Indian expats in Iraq, who like the Iraqi, were and continue to be expected to put up and shut up, against every act of cruelty, torment, and oppression thrust upon them, while they are further expected to be "cheerfully humble, cooperative, and subservient" in every conceivable situation, by colonialists and supremacists. 
 
 #ForFunAndUnions #ForDiversityHires #SOSWAG
