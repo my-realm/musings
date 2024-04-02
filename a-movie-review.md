@@ -10,7 +10,7 @@ Also, if one were to change the color space of the movie while watching it, to m
 
 <br>
 <div align="center">
-  <img width="60%" src="https://i.ibb.co/1K0DKqn/the-american-society-of-magical-negros-color-space-shift.jpg"></img>
+  <img width="60%" src="https://i.ibb.co/zsRgqHb/the-american-society-of-magical-negroes-color-space-shift.jpg"></img>
   <p><b>Src:</b> The American Society of Magical Negroes, Universal Pictures | Focus Features</p>
 </div>
 <br>
