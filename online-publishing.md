@@ -6,7 +6,7 @@ I haven't yet gotten to the stage of pinging them daily via automated Tweets. Do
 
 So, the maximum extent of surveillance that an agency from India, China, South Korea, Russia, Turkey, Germany, UAE, Saudi Arabia, Qatar, Israel, the UK, the EU, the US, Canada, or from any other region might be able to do, would be to monitor my activities in real-time. 
 
-Let's say that at least a few state-sponsored agencies and a variety of other non-state actors in the world, are currently capable of viewing the keystrokes and screen of a target computer, such as mine, in real-time; and are capable of reading this text, as well as any other file in my computer network, as and when it gets created or edited by me. 
+Let's say that at least a few state-sponsored agencies and a variety of other non-state actors in the world, are currently capable of viewing the keystrokes and the screen of a target computer, such as mine, in real-time; and are capable of reading this text, as well as any other file in my computer network, as and when it gets created or edited by me. 
 
 Let's call them Alphas. So, the Alphas conveniently have a "first mover advantage", over any other state-sponsored groups or non-state actors, all of whom may go through the contents of the files being published by me on GitHub and Twitter, after I upload them online. Let's call these groups that gain information from my activities, only after I publish some content online, as the Betas. 
 
