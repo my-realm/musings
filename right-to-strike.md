@@ -1,0 +1,15 @@
+## An employee's or a hired person's right to strike
+
+The idea that an employee, or a hired person, can have a right to deny access to their work outputs and labors, and can rightfully revoke their consent to being put to work by employers for personal or professional reasons, can be better understood using the following comparison. 
+
+Consider the topic of equity and well being that a person has within and by virtue of their body and intellectual abilities. Then consider any act of sexual, biochemical, or physical violence which, impairs or robs the person of that embodied equity and wellness. Should a person have the right to refuse sexual or threatening advances, as well as the right to revoke consent to participating in a sexual or any other type of activity to protect their embodied equity, health, and sense of dignity? 
+
+If it is already well understood and naturally established that a person has a right to fend off every manner of force due to violence, manipulation, or duress, in the interest of self-preservation, then the very same rationale is to be applied to the concept of "right to strike", as well as to the right to withhold cooperation at a work place, when the employee or hired person is sufficiently convinced that doing so is a necessary action towards preserving their embodied equities, health, ethics, and sense of morality and dignity.   
+
+Among capitalist corporations and market places, an employer already enjoys the right to hire or fire workers, with maximum leeway and freedoms to do so. The employer can very well exercise their right to fire striking employees, even as an act of "justified retaliation" for disobedience, or as an action against willful disruption of the employers' business affairs by striking workers, if the employer feels they can hire other workers from the available labor pool, instead of calmly re-negotiating employment terms with striking workers. 
+
+Guilds as well as unionized employees and contractors, most certainly can have an influence over the entire available labor pool within a geographic region. So, employers can simply accept this basic anthropological truth and reality, to subsequently create a more attractive and conducive workplace environment that respects the rights of workers to avail collective bargaining powers, as well as their right to strike as a group of workers, through unions or guilds.   
+
+The worst case scenario resulting from state-sponsored violence inflicted upon denizens via policies against worker unions or strikes, can be mass riots escalating into a civil war. However, the more common place scenario is "brain drain", wherein, skilled workers simply figure out ways to escape and migrate to regions with better living and working conditions while the region with bad or poor conditions, becomes worse, due to an exodus of skilled craftspeople from the inhospitable area. 
+
+In conclusion, workers will most certainly avail innate and inherited rights to strike, when necessary, whether an employer or a judiciary acknowledges and approves of it or not. 
