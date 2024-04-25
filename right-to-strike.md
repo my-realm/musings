@@ -12,4 +12,4 @@ Guilds as well as unionized employees and contractors, most certainly can have a
 
 The worst case scenario resulting from state-sponsored violence inflicted upon denizens via policies against worker unions or strikes, can be mass riots escalating into a civil war. However, the more common place scenario is "brain drain", wherein, skilled workers simply figure out ways to escape and migrate to regions with better living and working conditions while the region with bad or poor conditions, becomes worse, due to an exodus of skilled craftspeople from the inhospitable area. 
 
-In conclusion, workers will most certainly avail innate and inherited rights to strike, when necessary, whether an employer or a judiciary acknowledges and approves of it or not. 
+In conclusion, workers will most certainly make use of innate and inherited rights to strike, when necessary, whether an employer or a judiciary acknowledges and approves of it or not. 
