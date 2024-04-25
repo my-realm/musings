@@ -38,3 +38,5 @@ Some philosophical and free-form expressions.
 ### [2024-03-19 | Inaccessible Information](https://github.com/my-realm/musings/blob/main/inaccessible-information.md)
 
 ### [2024-04-03 | A Movie Review](https://github.com/my-realm/musings/blob/main/a-movie-review.md)
+
+### [2024-04-25 | Right To Strike](https://github.com/my-realm/musings/blob/main/right-to-strike.md)
