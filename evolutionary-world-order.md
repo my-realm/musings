@@ -1,6 +1,6 @@
 ## Evolutionary World Order
 
-The promoters and proponents of "the International 'Rules' Based Order" assume and stipulate that:
+The proponents and promoters of "the International 'Rules' Based Order" assume and stipulate that:
 
 a) A global jurisdiction of American, European, and British agencies exists within which, those agencies have supremacy, primacy, and ultimate authority over the institutions of all other nation states;
 
