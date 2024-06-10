@@ -40,3 +40,5 @@ Some philosophical and free-form expressions.
 ### [2024-04-03 | A Movie Review](https://github.com/my-realm/musings/blob/main/a-movie-review.md)
 
 ### [2024-04-25 | Right To Strike](https://github.com/my-realm/musings/blob/main/right-to-strike.md)
+
+### [2024-06-10 | Evolutionary World Order](https://github.com/my-realm/musings/blob/main/evolutionary-world-order.md)
