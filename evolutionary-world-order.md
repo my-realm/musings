@@ -1,10 +1,10 @@
 ## Evolutionary World Order
 
-The proponents and promoters of "the International 'Rules' Based Order" assume and stipulate that:
+The proponents and promoters of "the International 'Rules' Based Order" still continue to assume and stipulate that:
 
-a) A global jurisdiction of American, European, and British agencies exists within which, those agencies have supremacy, primacy, and ultimate authority over the institutions of all other nation states;
+1. A global jurisdiction of American, European, and British agencies exists within which, those agencies have supremacy, primacy, and ultimate authority over the institutions of all other nation states;
 
-b) An ethnic ranking of nations and cultural groups of people throughout the world based on Anglo-Saxon racism exists, that is somehow ordained by a Christianized "God" and by "nature" within which, the most white among white ethnicity is the most supreme group that gets to set the rules and conventions about what is supposed to be fair and legal across all domains and realms. 
+1. An ethnic ranking of nations and cultural groups of people throughout the world based on Anglo-Saxon racism exists, that is somehow ordained by a Christianized "God" and by "nature" within which, the most white among white ethnicity is the most supreme group that gets to set the rules and conventions about what is supposed to be fair and legal across all domains and realms. 
 
 The novel geopolitical changes emerging across the world have started with the dismantling of socio-economic and political structures that promote the above two stipulations of a bygone era's "World Order." That so-called World Order which had come into existence after World War II with America and Britain at its helm, is no more a respect worthy outlook or viewpoint, that needs to be held by educated and well informed residents of the world. The removal of racism, sexism, xenophobia, Islamophobia, and other types of discriminatory prejudices from international organizations that had formed the basis of the previous world order, is now being labeled as signs of "fragmentation" and "chaos" within the modern world, by numerous Western analysts.  
 
