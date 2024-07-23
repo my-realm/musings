@@ -22,11 +22,11 @@ On my computer, the BIOS is called UEFI (Unified Extensible Firmware Interface) 
 	
 	- Next, type the following commands in the terminal: 
 	
-		<code>
+		```shell
 		wsl --install --no-distribution  
 	
 		wsl --update  
-		</code>
+		```
 	
 	The above set of commands performed the required operation for installing WSL2 and enabling memory virtualization for my computer. Other commands related to WSL can be found using `wsl --help` option. 
 	
@@ -38,9 +38,9 @@ On my computer, the BIOS is called UEFI (Unified Extensible Firmware Interface) 
 	
 	- Install Kali using the command: 
 	
-		<code>
+		```shell
 		wsl --install --kali-linux  
-		</code>
+		```
 
 - **Step 4:** Open a Kali Profile in Windows Terminal 
 
@@ -52,15 +52,15 @@ On my computer, the BIOS is called UEFI (Unified Extensible Firmware Interface) 
 
 	- After being signed in with your username in the Kali profile of Windows Terminal, type the following command:
 	
-		<code>
+		```shell
 		sudo apt update  
-		</code>
+		```
 		
 	- Following that you can try the command: 
 	
-		<code>
+		```shell
 		sudo apt upgrade  
-		</code>
+		```
 		
 Your Windows Start Menu will now have an icon for launching minimal installation of Kali with BASH in a terminal window. We will now download and install ZSH in the next step for Kali in Windows Terminal. 
 
@@ -70,9 +70,9 @@ The ZSH profile and screen prompt can be extensively customized via settings of 
 
 - **Step 6:** Type the following command in Kali BASH to download and install ZSH:
 	
-	<code> 
+	```shell 
 		sudo apt install zsh -y
-	</code>
+	```
 
 #### Oh-My-ZSH 
 
@@ -80,9 +80,9 @@ The ZSH profile and screen prompt can be extensively customized via settings of 
 
 	- To switch the default command line shell in Kali from BASH to ZSH use the following installation Shell Script from the Oh-My-ZSH project: 
 	
-		<code> 
+		```shell 
 		sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-		</code>
+		```
 
 	- When prompted to switch to ZSH as default shell, press `Y` to indicate Yes, and hit Enter, and then follow the prompts. 
 
@@ -127,9 +127,9 @@ Finally, to beautify and prettify ZSH, the P10K extension can be used.
 
 - **Step 9:** Download and install Powerlevel10K: 
 
-	<code>
+	```shell
 	git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
-	</code>
+	```
 
 	- Edit the `~/.zshrc` file using Nano or Vim or your preferred text editor. Change the value of `ZSH_THEME="robbyrussel"` to `ZSH_THEME="powerlevel10k/powerlevel10k"`
 
