@@ -44,3 +44,5 @@ Some philosophical and free-form expressions.
 ### [2024-06-10 | Evolutionary World Order](https://github.com/my-realm/musings/blob/main/evolutionary-world-order.md)
 
 ### [2024-06-16 | Recognizing Injustice](https://github.com/my-realm/musings/blob/main/recognizing-injustice.md)
+
+### [2024-07-23 | Linux on Windows](https://github.com/my-realm/musings/blob/main/linux-on-windows.md)
