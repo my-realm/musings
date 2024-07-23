@@ -71,7 +71,7 @@ The ZSH profile and screen prompt can be extensively customized via settings of 
 - **Step 6:** Type the following command in Kali BASH to download and install ZSH:
 	
 	```shell 
-		sudo apt install zsh -y
+	sudo apt install zsh -y
 	```
 
 #### Oh-My-ZSH 
