@@ -12,7 +12,7 @@ My eventual conclusion from pondering about the rate of change within a collecti
 
 Isn't information transfer, in and of itself, a type of flux, that would limit the ways in which an observer can make accurate and precise observations about the world in and around us?   
 
-I was inspired to think about the above types of things, while relaxing and watching this wonderful discussion about the topic of "infinity" - https://www.youtube.com/watch?v=Vp570S6Plt8  
+I was inspired to think about the above types of things, while relaxing and watching this wonderful discussion about the topic of "infinity" - "Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED | 30th Jan, 2023" https://www.youtube.com/watch?v=Vp570S6Plt8  
 
 ---
 
