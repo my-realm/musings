@@ -36,7 +36,7 @@ Let us now discuss the various ways in which certain privately owned and operate
 	
 	1. Further relying on the fact that lawyers, accountants, and other "fixers" will take care of any legal actions taken by a government agency for discrepancies in a corporation's accounting and trade practices.  
 	
-1. Deliberately and selectively targeting employees and retirees of Central Government of India to deprive them of "Central Government Health Scheme" (CGHS)
+1. Deliberately and selectively targeting employees and retirees of Central Government of India to deprive them of Central Government Health Scheme (CGHS)
 
 	This method directly attacks the socio-economic and physical well being of only the families of employees and retirees, of public sector entities affiliated with or belonging to, the Central Government of India. By depriving qualified Indian residents of their rights and privileges to avail CGHS, <ins>certain</ins> corporate hospitals and clinics force those consumers to pay the full amount of overpriced medical goods and services in cash, out of the consumers' pockets, especially because those consumers typically do not have any other form of health insurance coverage. Moreover, any persons who apply for reimbursement from their existing or former employer (belonging to the Central Government), cannot simultaneously apply for private healthcare insurance cover for those healthcare costs, due to existing rules and regulations of the government. 
 	
