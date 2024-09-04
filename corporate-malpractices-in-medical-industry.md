@@ -1,6 +1,6 @@
 ## Foundational Faults and Flaws Within Corporate Policies of Medical and Healthcare Providers in India  
 
-Government legislation has allowed medical and healthcare corporations such as hospitals and clinics to pay central and state wise collected service taxes, only on a maximum of Rs. 50,000.00 per business transaction with a consumer. This legislation for a cap on the value of each business transaction of a healthcare corporation was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's medical and healthcare industry.  
+Government legislation has allowed medical and healthcare corporations such as hospitals and clinics to pay, central and state wise collected service taxes, only on a maximum of Rs. 50,000.00 per business transaction with a consumer. This legislation for a cap on the value of each business transaction of a healthcare corporation was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's medical and healthcare industry.  
 
 In my humble opinion, existing and new corporations operating within the medical and healthcare industry, need not be given that tax incentive anymore because:  
 
