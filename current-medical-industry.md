@@ -32,7 +32,7 @@ Let us now discuss the various ways in which certain privately owned and operate
 	
 	1. Siphoning and stashing the unearned cash income or laundering it, via shell corporations, or international tax havens, or other common methods of cheating and tax evasion.  
 	
-	1. Being perfectly content and confident that the customer any ways won't report the Customer's Copy of a receipt to any government agency; and also relying on the fact that most investigative agencies do not have the incentive or the means to search for all of the Customers' Copies of a merchant's receipts, especially for any cash transactions that aren't Business-to-Business (B2B) through a traceable electronic medium.  
+	1. Being perfectly content and confident that the customer any ways won't report the Customer's Copy of a receipt to any government agency; while also relying on the fact that most investigative agencies do not have the incentive or the means to search for all of the Customers' Copies of a merchant's receipts, especially for any cash transactions that aren't conducted Business-to-Business (B2B) through a traceable electronic medium.  
 	
 	1. Further relying on the fact that lawyers, accountants, and other "fixers" will take care of any legal actions taken by a government agency for discrepancies in a corporation's accounting and trade practices.  
 	
