@@ -22,19 +22,19 @@ Let us now discuss the various ways in which certain privately owned and operate
 
 	This is practically a perfect crime being committed by various corporate entities that do not use a proper invoicing mechanism, especially in the pharmaceutical, medical and healthcare industries where large cash amounts are directly paid by the consumer to the goods and services provider. The procedural steps of the crime include: 
 
-		1. Billing a customer an amount greater than Rs. 50,000.00 with variety of fake or increased quantities of line items, and using a cash memo or a "Final Bill" without a proper invoice.  
-		
-		1. Then happily collecting cash from the naive customer who pays the billed amount without disputing or being able to dispute the billed amount.  
-		
-		1. Giving the customer a "Cash Receipt" generated as a hand written copy or a printout from a computer software.  
-		
-		1. Destroying or modifying the merchant's copy of that receipt, so that the billed amount and the inventory registers conveniently match, to reflect an amount valued lower than the actual amount (and ideally lower than Rs. 50,000.00) per altered sales receipt.  
-		
-		1. Siphoning and stashing the unearned cash income or laundering it, via other common methods of cheating and tax evasion.  
-		
-		1. Being perfectly content and confident that the customer any ways won't report the Customer's Copy of a receipt to any government agency; and also relying on the fact that most investigative agencies do not have the incentive or the means to search for all of the Customers' Copies of a merchant's receipts, especially for any cash transactions that aren't Business-to-Business (B2B) through a traceable electronic medium.  
-		
-		1. Further relying on the fact that lawyers, accountants, and other "fixers" will take care of any legal actions taken by a government agency for discrepancies in a corporation's accounting and trade practices.  
+	1. Billing a customer an amount greater than Rs. 50,000.00 with variety of fake or increased quantities of line items, and using a cash memo or a "Final Bill" without a proper invoice.  
+	
+	1. Then happily collecting cash from the naive customer who pays the billed amount without disputing or being able to dispute the billed amount.  
+	
+	1. Giving the customer a "Cash Receipt" generated as a hand written copy or a printout from a computer software.  
+	
+	1. Destroying or modifying the merchant's copy of that receipt, so that the billed amount and the inventory registers conveniently match, to reflect an amount valued lower than the actual amount (and ideally lower than Rs. 50,000.00) per altered sales receipt.  
+	
+	1. Siphoning and stashing the unearned cash income or laundering it, via shell corporations, or international tax havens, or other common methods of cheating and tax evasion.  
+	
+	1. Being perfectly content and confident that the customer any ways won't report the Customer's Copy of a receipt to any government agency; and also relying on the fact that most investigative agencies do not have the incentive or the means to search for all of the Customers' Copies of a merchant's receipts, especially for any cash transactions that aren't Business-to-Business (B2B) through a traceable electronic medium.  
+	
+	1. Further relying on the fact that lawyers, accountants, and other "fixers" will take care of any legal actions taken by a government agency for discrepancies in a corporation's accounting and trade practices.  
 	
 1. Deliberately and selectively targeting employees and retirees of Central Government of India to deprive them of "Central Government Health Scheme" (CGHS)
 
