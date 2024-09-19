@@ -60,6 +60,6 @@ It can be seen that, especially in the healthcare and pharmaceutical industry, w
 
 In conclusion, the existing legislation that puts a cap on the maximum taxable income of healthcare providers, must be abolished right away via executive orders from the highest competent authority in India, in order to protect the public from such an easily abused and harmful legislative policy. 
 
-Also, particularly in reference to the organized crime of holding a person captive as, a chattel or collateral property, one ought to know that:  
+Also, particularly in reference to the organized crime of holding a person captive as a chattel or a collateral property, one ought to know that:  
 
 >If Ravana had opportunistically held Lord Rama's mother, Queen Kaushalya as captive, to gain any kind of a leverage over Lord Rama or King Dashratha, then Ramayana would have been a completely different narrative with Ravana and his horde of imps throughout the globe begging to be killed, and Lords Rama as well as Shiva, not gracing them with the mercy of death.  
