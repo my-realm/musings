@@ -4,7 +4,7 @@
 
 The `user.js` file available in the following repository was created for being utilized with a [Firefox Nightly](www.mozilla.org/en-US/firefox/nightly/notes/) browser. Its settings were decided upon, using research gathered from the given links in the references section.
 
->https://github.com/psyedout/firefox-user-prefs/ 
+>Download the user.js file from this repo - https://github.com/psyedout/firefox-user-prefs/ 
 
 <br>
 
