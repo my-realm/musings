@@ -93,7 +93,8 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 | <b>Condition <br>Exists</b>         | X                   | Y                       |
 | <b>Condition <br>Does Not Exist</b> | Y                   | X                       |
 
-<p>Cells X are equivalent to cells Y in this "confusion matrix."
+<p>Events represented by cells X, do not have the same probability of occurrence, as those in cells Y, in this "confusion matrix."</p> 
+
 </div>
 
 <br>
