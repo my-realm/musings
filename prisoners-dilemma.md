@@ -37,7 +37,9 @@ Regardless of the mathematical and game theoretic view that academicians may hol
 
 ---
 
-So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India trapped in Qatar, in order to comprehend the quantum mechanics version of the prisoners' dilemma. 
+<br> 
+
+So, now, let's get back to the mathematics of the prisoner's dilemma, which we can extend to include more than two prisoners, and call it prisoners' dilemma. Also, let's dive into a much deeper thought-experiment, and imagine that the prisoners are Indians from India trapped in Qatar, in order to comprehend ***the quantum mechanics version of the prisoners' dilemma.*** 
 
 - We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do ["the Indian head-bobble",](https://youtu.be/EoJ4Bvsq7gQ) as a response. 
 
