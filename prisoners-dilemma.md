@@ -43,9 +43,9 @@ So, now, let's get back to the mathematics of the prisoner's dilemma, which we c
 
 - We can thus imagine, that the captors, keep asking questions to the prisoners during "enhanced interrogations", and the prisoners simply do ["the Indian head-bobble",](https://youtu.be/EoJ4Bvsq7gQ) as a response. 
 
-In the classical prisoners' dilemma, only binary forms of outcomes are assumed, where each prisoner either does, or does not cooperate with the captors, in order to either 'collude with', or 'betray' the other prisoners. Malfeasance and wrongdoing on part of the prisoners, is already presumed. But, the Indian head-bobble, changes the situation to a much more multifaceted outcome, which does not involve a simplistic, mutually-exclusive, binary response from the prisoners. 
+In the classical prisoners' dilemma, only binary forms of outcomes are assumed, where each prisoner either does, or does not cooperate with the captors, in order to either 'collude with', or 'betray' the other prisoners. Malfeasance and wrongdoing on part of the prisoners, is already presumed by the captors. But, *the Indian head-bobble,* changes the situation to a much more multifaceted outcome, which does not involve a simplistic, mutually-exclusive, binary response from the prisoners. The Indian head-bobble, converts any conversation into a "non-deterministic, quantum mechanics version" of that conversation.  
 
-Additionally, in the classical example, the captors hold the expectation that at least one broken down prisoner can be seduced or deceived into betraying the others. The captors also maintain a strong conviction that, "a *'rational'* individual would maximize their *'self-interest'* to avert loss, pain, humiliation, and cruelty, by acting as selfishly as possible." 
+Additionally, in the classical example of prisoners' dilemma, the captors hold the expectation that at least one broken down prisoner can be seduced or deceived into betraying the others. The captors also maintain a strong conviction that, "a *'rational'* individual would maximize their *'self-interest'* to avert loss, pain, humiliation, and cruelty, by acting as selfishly as possible." 
 
 However, a competent and impartial judge who is morally and ethically conscientious, ought to be aware that, the rationality of an individual being incarcerated, is only exhibited to an external observer, in the manner that the external observer wants to perceive, based on the detainee's outwardly reactions to being 'probed and prodded.' Upon being questioned, any person would obviously try to maintain their innocence and that of their companions, and at times, also of mere acquaintances, due to an intrinsic sense of responsibility for care and consideration, towards themselves. 
 
@@ -95,7 +95,7 @@ My approach towards obtaining some measure of worthwhile justice, for a range of
 | <b>Condition <br>Exists</b>         | X                   | Y                       |
 | <b>Condition <br>Does Not Exist</b> | Y                   | X                       |
 
-<p>Events represented by cells X, do not have the same probability of occurrence, as those in cells Y, in this "confusion matrix."</p> 
+<p>Events represented by cells X, do not have the same probability of occurrence, as those in cells Y, <br />in this tabulated "confusion matrix."</p> 
 
 </div>
 
