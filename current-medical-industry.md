@@ -67,7 +67,7 @@ Also, particularly in reference to the organized crime of holding a person capti
 
 <div align="center">
   
-  ** [Next Article in This Special Issue :arrow_right:][Next]** 
+  **[Next Article in This Special Issue :arrow_right:][Next]** 
 
   [Next]: https://github.com/just-noticeable/damroo/blob/main/rectifying-the-rent-seeking-behaviors-of-certain-hospitals.md
 
