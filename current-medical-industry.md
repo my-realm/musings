@@ -6,7 +6,7 @@ In my humble opinion, existing and new corporations operating within the medical
 
 >a) Domestic and international demand from consumers for medical goods and services supplied in India, is sufficiently large and robust to support the sustainable growth of the Indian medical and healthcare industry through existing consumer purchasing power.   
 >
->b) Numerous corporate entities within the medical and healthcare industry have abused that incentive causing an annual, excise and income-tax revenue loss to the Central and State Governments in India, at the rate of tens of Carores of Rupees per city per month, across India. 
+>b) Numerous corporate entities within the medical and healthcare industry have abused that incentive causing an annual, excise and income-tax revenue loss to the Central and State Governments in India, at the rate of tens of Crores of Rupees per city per month, across India. 
 
 Let us now discuss the various ways in which certain privately owned and operated healthcare providers such as hospitals, clinics and medical diagnostics labs in India, have been abusing the excise duty and taxation system of Central and State Governments.  
 
