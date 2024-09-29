@@ -64,6 +64,9 @@ Also, particularly in reference to the organized crime of holding a person capti
 
 >If Ravana had opportunistically held Lord Rama's mother, Queen Kaushalya as captive, to gain any kind of a leverage over Lord Rama or King Dashratha, then Ramayana would have been a completely different narrative with Ravana and his horde of imps throughout the globe begging to be killed, and Lords Rama as well as Shiva, not gracing them with the mercy of death.  
 
+<br>
+
+---
 
 <div align="center">
   
