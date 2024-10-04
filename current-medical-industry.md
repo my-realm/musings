@@ -1,6 +1,6 @@
 ## Foundational Faults and Flaws Within Corporate Policies of Medical and Healthcare Providers in India  
 
-Government legislation has allowed medical and healthcare corporations such as hospitals and clinics to pay, central and state wise collected service taxes, only on a maximum of Rs. 50,000.00 per business transaction with a Consumer. This legislation for a cap on the value of each business transaction of a healthcare corporation was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's medical and healthcare industry.  
+Government legislation has allowed medical and healthcare corporations such as hospitals and clinics to pay, central and state wise collected service taxes, only on a maximum of Rs. 50,000.00 (Rupees fifty thousand) per business transaction with a Consumer. This legislation for a cap on the value of each business transaction of a healthcare corporation was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's medical and healthcare industry.  
 
 In my humble opinion, existing and new corporations operating within the medical and healthcare industry, need not be given that tax incentive anymore because:  
 
@@ -12,7 +12,7 @@ Let us now discuss the various ways in which certain privately owned and operate
 
 1. Adding hidden costs, surcharges, and other unnecessary fees on the bill  
 
-    Certain corporate hospitals and clinics have been adding extra costs and fees by performing unnecessary medical procedures on patients, so as to increase the billed amount to become greater than Rs. 50,000.00 per business transaction with a patient. The final billed amount also includes hidden costs and variety of illegitimate surcharges in the post-paid bill which, are suddenly sprung upon the unassuming Consumer after the unfairly charged goods and services are said to have been "rendered in good-faith."  
+    Certain corporate hospitals and clinics have been adding extra costs and fees by performing unnecessary medical procedures on patients, so as to cause the billed amount to become greater than Rs. 50,000.00 (Rupees fifty thousand) per business transaction with a patient. The final billed amount also includes hidden costs and variety of illegitimate surcharges in the post-paid bill which, are suddenly sprung upon the unassuming Consumer after the unfairly charged goods and services are said to have been "rendered in good-faith."  
 	
 1. Not providing a proper and fair invoice to the paying customer, for exploiting tax loopholes  
 
