@@ -14,7 +14,7 @@ So, I hereby cast my <ins>Vote of No Confidence in Canada</ins> and in its curre
 
 >Canada had to be taken into receivership and refurbished, by bringing it into the control of *"Newer, New Management."* 
 
-The necessary changes, that would rectify the failures of the erstwhile policies implemented in North America by Dutch, German, French, British, and American institutions, might then be reflected by a flag, using a design along the lines of: 
+The necessary changes, that would rectify the failures of the erstwhile policies implemented in Canada by Dutch, German, French, British, and American institutions, might then be reflected by a flag, using a design along the lines of: 
 
 <br>
 
