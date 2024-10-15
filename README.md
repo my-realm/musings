@@ -50,3 +50,5 @@ Some philosophical and free-form expressions.
 ### [2024-09-04 | Current Medical Industry](https://github.com/my-realm/musings/blob/main/current-medical-industry.md#foundational-faults-and-flaws-within-corporate-policies-of-medical-and-healthcare-providers-in-india)
 
 ### [2024-09-18 | Deadly Effects of Neo-liberalism](https://github.com/my-realm/musings/blob/main/deadly-effects-of-neoliberalism.md)
+
+### [2024-10-15 | Upcoming Trade Wars](https://github.com/my-realm/musings/blob/main/upcoming-trade-wars.md)
