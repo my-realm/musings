@@ -52,3 +52,5 @@ Some philosophical and free-form expressions.
 ### [2024-09-18 | Deadly Effects of Neo-liberalism](https://github.com/my-realm/musings/blob/main/deadly-effects-of-neoliberalism.md)
 
 ### [2024-10-15 | Upcoming Trade Wars](https://github.com/my-realm/musings/blob/main/upcoming-trade-wars.md)
+
+### [2024-10-15 | A Vote of No Confidence Against The Incumbent Canadian Government ](https://github.com/my-realm/musings/blob/main/a-vote-of-no-confidence-against-the-incumbent-canadian-government.md)
