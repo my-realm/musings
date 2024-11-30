@@ -1,0 +1,9 @@
+## Doctrine of Deterrence
+
+In legal affairs, the "Principle of Least Punishment" does not explain the qualitative value of an eventual societal goal for which, a particular lawful action ought to be committed by the judiciary in a given case. It also does not explain the sense of "distance" or "path" that exists between the current state of not having achieved "fairness", and the future state of having achieved sustainable and equitable fairness in society. 
+
+In physics or natural philosophy, the concept of "action" or "expenditure" is well defined based on physical concepts of distance, speed, and kinetic energy. And the "Principle of Least Action" is analytically formulated to satisfy the conditions of an assumed, perfectly stationary or static end-state involving a given system of physical objects. 
+
+Now, it is a serious error, to misappropriate the idea of "least action" from the domain of physics into the domain of civics, as the idea of "least punishment." The complacency of an incompetent or corrupted judge, cannot be hidden behind propped up justifications for issuing court orders within such judicial limits and intents, that the culpable agents or agencies be allowed to pay a tiny monetary sum as a penalty or as reprimand, without admission of guilt on part of the culpable parties. Those types of culprits and malicious actors consider such court ordered monetary fines, merely as "cost of doing business", only to then continue their organized crimes without any remorse or repentance. 
+
+The minimum output from the judiciary to lawfully curtail and rectify identified organized crimes being committed by corporate or institutional wrongdoers, must prioritize the "Doctrine of Deterrence", to make sure that the punishment given to convicted criminals for organized crimes discourages and prevents others from repeating those offences and violations. 
