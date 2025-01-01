@@ -59,4 +59,4 @@ Some philosophical and free-form expressions.
 
 ## 2025
 
-### [2024-11-30 | Doctrine of Deterrence ](https://github.com/my-realm/musings/blob/main/measurable-risks.md)
+### [2025-01-01 | Doctrine of Deterrence ](https://github.com/my-realm/musings/blob/main/measurable-risks.md)
