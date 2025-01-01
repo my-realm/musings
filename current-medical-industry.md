@@ -24,7 +24,7 @@ Let us now discuss the various ways in which certain privately owned and operate
 
 	1. Billing a customer an amount greater than Rs. 50,000.00 with variety of fake or increased quantities of line items, and using a cash memo or a "Final Bill" without a proper invoice.  
 	
-	1. Then happily collecting cash from the naive customer who pays the billed amount without disputing or being able to dispute the billed amount.  
+	1. Then happily collecting cash from the naive customer because the customer simply pays the demanded amount, without disputing or being able to dispute the so-called Final Bill.  
 	
 	1. Giving the customer a "Cash Receipt" generated as a hand written copy or a printout from a computer software.  
 	
