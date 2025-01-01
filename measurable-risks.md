@@ -8,3 +8,6 @@ The most natural consequence of long-standing injustice is for wronged persons t
 
 So, all you need to know is that, every defiled home, and desecrated life, will be avenged in due course of time, by a rightful blood-redeemer!
 
+---
+
+PS: Happy New Year. 
