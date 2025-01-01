@@ -56,3 +56,7 @@ Some philosophical and free-form expressions.
 ### [2024-10-15 | A Vote of No Confidence Against The Incumbent Canadian Government ](https://github.com/my-realm/musings/blob/main/a-vote-of-no-confidence-against-the-incumbent-canadian-government.md)
 
 ### [2024-11-30 | Doctrine of Deterrence ](https://github.com/my-realm/musings/blob/main/doctrine-of-deterrence.md)
+
+## 2025
+
+### [2024-11-30 | Doctrine of Deterrence ](https://github.com/my-realm/musings/blob/main/measurable-risks.md)
