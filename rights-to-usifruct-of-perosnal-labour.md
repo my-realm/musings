@@ -49,7 +49,7 @@ Those commitment based actions in turn, will improve your capacity to perform de
 
 Whether you are young or old, male or female, professionally employed or merely an amateur dabbling in the arts and sciences of dealing with chores of daily life, you won't stay brainwashed or asleep for too long. This is because the forces existent in this universe that arise from the very basis of this universe, will demolish every form of falsehood and illusory deception that might have enthralled you. 
 
-With such vital and crucial knowledge, you can rest assured, that any so-called "guru" or "pundit" who gives you vacuous [solipsism](https://en.wikipedia.org/wiki/Solipsism) about "know thy self", will be utterly wiped out by the ever present forces, that gave birth to energy, matter, and time and space.
+With such vital and crucial knowledge, you can rest assured that any so-called "guru" or "pundit" who gives you vacuous [solipsism](https://en.wikipedia.org/wiki/Solipsism) about "know thy self", will be utterly destroyed and wiped out by the ever present forces, that gave birth to energy, matter, and time and space.
 
 So, once you mature and manage to utilize your natural curiosity to move towards intentional activities, in a committed and dedicated way, you will eventually become a force of nature devoted to The Truth, and you won't merely remain a being with an agency to perform planned or reflexive actions towards achieving goals or visions. 
 
