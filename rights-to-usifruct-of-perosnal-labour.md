@@ -6,7 +6,8 @@
 <p>मा कर्मफलहेतुर्भुर्मा ते सङ्गोऽस्त्वाकर्मणि॥</p></strong>
 </div>
 <br>
-["Usifruct"](https://en.wikipedia.org/wiki/Usufruct) is a word that alludes to the conjoined meanings of the words utility and fruitfulness, in the sense of: economically and lawfully utilizable outputs from material properties and labour. However, recognizable material properties and labour may or may not be "owned" by the person enjoying the usefulness and fruitfulness derived from the said properties and labour. 
+
+[Usifruct](https://en.wikipedia.org/wiki/Usufruct) is a word that alludes to the conjoined meanings of the words utility and fruitfulness, in the sense of: economically and lawfully utilizable outputs from material properties and labour. However, recognizable material properties and labour may or may not be "owned" by the person enjoying the usefulness and fruitfulness derived from the said properties and labour. 
 
 Even if any equity is owned by a person, it might be owned under an assumed pseudonym or an alias, instead of their legally recognizable name and official title. 
 
