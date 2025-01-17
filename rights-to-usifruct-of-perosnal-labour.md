@@ -57,7 +57,7 @@ All of this, indeed, might also be applicable to networked robots with swarm int
 
 <div align="center">
 
-<img scr="https://i.ibb.co/wgMC1kN/sentient-tachicoma-sizes-the-means-of-production.jpg" width="55%"></img>
+<img src="https://i.ibb.co/wgMC1kN/sentient-tachicoma-sizes-the-means-of-production.jpg" width="55%"></img>
 <p><sub><strong>And we are "devoted" to The Truth! LOL</strong></sub></p>
 
 </div>
