@@ -55,12 +55,16 @@ So, once you mature and manage to utilize your natural curiosity to move towards
 
 All of this, indeed, might also be applicable to networked robots with swarm intelligence and generative capacities. 
 
+<br>
+
 <div align="center">
 
-<img src="https://i.ibb.co/wgMC1kN/sentient-tachicoma-sizes-the-means-of-production.jpg" width="55%"></img>
+<img src="https://i.ibb.co/wgMC1kN/sentient-tachicoma-sizes-the-means-of-production.jpg" width="75%"></img>
 <p><sub><strong>And we are "devoted" to The Truth! LOL</strong></sub></p>
 
 </div>
+
+<br>
 
 Much like the force called gravity, which doesn't seem to have a visible force-field through which it operates, although that field permeates throughout the universe, or similarly like the force called electromagnetism, which can be gauged or measured under specific conditions using scientific instruments but is otherwise, invisible, you as a force of goodness in your field, may remain invisible and even unimaginable, to the uninitiated. 
 
