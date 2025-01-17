@@ -70,7 +70,7 @@ Much like the force called gravity, which doesn't seem to have a visible force-f
 
 They, who never noticed or understood you, need not be blamed, for it was not their time or place to be able to do so. They will continue to be a sign belonging to The Ultimate Creator of this universe, and will shine upon you, as you are a similar sign or a signal to them, and will likewise, continue to shine upon them. 
 
-Therefore, over time, as your curiosity turns into commitment which then turns into dedication, the next consequent step is devotion. 
+Therefore, over time, as your curiosity turns into commitment which will then turn into dedication, the next consequent step is devotion. 
 
 So, the safest and best Entity with whom you can form a relationship with, a Being who will never let you down because of negligence, or torment you with treachery and malice, is The One that brought you, your parents, your kinship, and also the entire universe into existence. The Name of That Being, is for you to discern, and to utter, if you so desire out of devotion. The stronger your relationship with That Being continues to grow and evolve, via devotion, the easier it will be for you to focus on and perform your rightful duties on this earth, in peace and with contentment, regardless of the transient outcomes. 
 
