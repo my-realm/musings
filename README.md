@@ -60,3 +60,5 @@ Some philosophical and free-form expressions.
 ## 2025
 
 ### [2025-01-01 | Measurable Risks](https://github.com/my-realm/musings/blob/main/measurable-risks.md)
+
+### [2025-01-17 | Rights to Usifruct of Personal Labour](https://github.com/my-realm/musings/blob/main/rights-to-usifruct-of-perosnal-labour.md)
