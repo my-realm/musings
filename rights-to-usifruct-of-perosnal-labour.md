@@ -7,15 +7,15 @@
 </div>
 <br>
 
-[Usifruct](https://en.wikipedia.org/wiki/Usufruct) is a word that alludes to the conjoined meanings of the words utility and fruitfulness, in the sense of: economically and lawfully utilizable outputs from material properties and labour. However, recognizable material properties and labour may or may not be "owned" by the person enjoying the usefulness and fruitfulness derived from the said properties and labour. 
+[Usifruct](https://en.wikipedia.org/wiki/Usufruct) is a word that alludes to the conjoined meanings of the words utility and fruitfulness, in the sense of: economically and lawfully utilizable outputs from material and intellectual properties, and from labour. However, recognizable properties and labour may or may not be "owned" by the person enjoying the usefulness and fruitfulness derived from the said properties and labour. 
 
 Even if any equity is owned by a person, it might be owned under an assumed pseudonym or an alias, instead of their legally recognizable name and official title. 
 
-Now, it is possible that you have heard some version of the phrase, "One does not have a right to the fruits of their labour but only has a right to perform labour." Most probably because you've read the Bhagvatgita, or because you saw some meme on a social media post with that kind of a saying. 
+Now, it is possible that you have heard some version of the phrase, "One does not have a right to the fruits of their labour but only has a right to perform labour." Most probably because you've read the Bhagvad Gita, or because you saw some meme on a social media post with that kind of a saying. 
 
 This naturally prompts the question, "Who in the universe has a right to own and utilize the labours and work outputs of a person?" 
 
-Especially, when the output of a task is the input to the next task of a person performing their duty-bound labour, then who has the equitable rights of ownership to the inputs, processes, production tools, and outputs linked to a person's publicly or privately performed labours? 
+Especially, when the output of a task is the input to the next task of a person performing their duty-bound labour, then who has the equitable rights of ownership to the inputs, processes, production tools, works in progress, and outputs linked to a person's publicly or privately performed labours? 
 
 Any capitalist or communist or monarchist overlord could end up stealing and unscrupulously enjoying your hard earned equity, if you don't bother to lay claim to your royalties and emoluments. So, you might as well assert your ownership of profits and losses derived from your earnest labours and material properties, and strictly protect them from thieves and invaders, with all the power and courage you can muster.
 
