@@ -19,7 +19,7 @@ Especially, when the output of a task is the input to the next task of a person 
 
 Any capitalist or communist or monarchist overlord could end up stealing and unscrupulously enjoying your hard earned equity, if you don't bother to lay claim to your royalties and emoluments. So, you might as well assert your ownership of profits and losses derived from your earnest labours and material properties, and strictly protect them from thieves and invaders, with all the power and courage you can muster.
 
-The lawful equity belonging to a person, naturally includes all possible assets and liabilities that can be rightfully attested and attributed as belonging to, the individual and corporal entity with personhood, who contributed to the creation of, or lawfully inherited, the practically measurable equity. 
+The lawful equity belonging to a person, naturally includes all possible assets and liabilities that can be rightfully attested and attributed as belonging to, the individuated corporal entity with personhood, who contributed to the creation of, or lawfully inherited, the practically measurable equity. 
 
 So, could [the sage advice from Baghvad Gita about ownership of the fruits of one's labours](https://en.wikipedia.org/wiki/Bhagavad_Gita#Chapter_3:_Karma_Yoga_(43_verses)) be applicable to enterprise corporate entities, nation-states, government organizations, robots with generative capacities, and unregistered associations of persons? How rational and worthwhile would that be?  
 
