@@ -35,7 +35,7 @@ Will curiosity kill you? Well, the lack of curiosity won't help you live. So, yo
 
 And as soon as that appreciation bumps into any level of resistance or a hurdle, your own capacity to overcome that obstacle will gear into action, and will move you towards the more interesting things that you value and care about. 
 
-Any amount of care you invest, towards appreciating a thing or a person, helps you build a stronger relationship with that thing and person. Of course, this immediately prompts the next most important question, "What is the safest and most worthy being to have a relationship with?" 
+So, any amount of care you invest towards appreciating a thing or a person, helps you build a stronger relationship with that thing and person. Of course, this immediately prompts the next most important question, "What is the safest and most worthy being to have a relationship with?" 
 
 You might as well answer that question for your own sake, in the manner that is most meaningful and suitable for you. This is because, as soon as you start to explore that question, you will come to appreciate the meaning of the words called "risk" and "uncertainty." 
 
