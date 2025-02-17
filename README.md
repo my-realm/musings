@@ -63,4 +63,5 @@ Some philosophical and free-form expressions.
 
 ### [2025-01-17 | Rights to Usifruct of Personal Labour](https://github.com/my-realm/musings/blob/main/rights-to-usifruct-of-perosnal-labour.md)
 
----
+### [2025-02-17 | Fundamental Right to Protection from Exploitation and Duress](https://github.com/my-realm/musings/blob/main/fundamental-right-to-protection-from-exploitation-and-duress.md)
+
