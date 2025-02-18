@@ -20,7 +20,7 @@ The necessary changes, that would rectify the failures of the erstwhile policies
 
 <div align="center">
 	<img src="https://tinyurl.com/flag-of-new-canada" width="80%"></img>
-	<p><strong>O! Canada... Alhamdulliah!</strong></p> 
+	<p><strong>O! Canada... Alhamdulillah (ٱلْحَمْدُ لِلّٰهِ)</strong></p> 
 </div>
 
 [^1]: At this very moment, a number of groups of people in the UK, the US, and especially in Canada, would have positioned themselves on a highchair, to then say that they can't and won't take down my mixed-media artwork and modes of self-expression, from any social media, because supposedly, they are the ones who have granted me the right to "Freedom of Expression". And in having 'graciously' given me a right to express myself freely, they will claim to have paid their debt to me, and will not otherwise, make any public apologies and pay the actual remedies as well as punitive damages they still owe me and to thousands of persons like myself. That is how, those repugnant, sly, and unrepentant wrongdoers from their highchairs will continue to arrogantly, conceitedly, condescendingly, contemptuously, and patronizingly add insult to injury, only to make it legal for me and persons like myself, to exercise every measure of lawful force necessary, to obtain due justice and satisfaction.   
