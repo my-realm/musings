@@ -1,12 +1,12 @@
-## Foundational Faults and Flaws Within Corporate Policies of Medical and Healthcare Providers in India  
+## Foundational Faults and Flaws Within Corporate Policies of Healthcare Providers in India  
 
-Government legislation has allowed medical and healthcare corporations such as hospitals and clinics to pay, central and state wise collected service taxes, only on a maximum of Rs. 50,000.00 (Rupees fifty thousand) per business transaction with a Consumer. This legislation for a cap on the value of each business transaction of a healthcare corporation was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's medical and healthcare industry.  
+Government legislation has allowed healthcare corporations such as hospitals and clinics to pay, central and state wise collected goods and service taxes, only on a maximum of Rs. 50,000.00 (Rupees fifty thousand) per business transaction with a Consumer. This legislation for a cap on the taxable value of each business transaction of a healthcare corporation, was implemented as an incentive for entrepreneurs to build and operate new enterprises within India's healthcare industry.  
 
-In my humble opinion, existing and new corporations operating within the medical and healthcare industry, need not be given that tax incentive anymore because:  
+In my humble opinion, existing and new corporations operating within the healthcare industry, need not be given that tax incentive anymore because:  
 
->a) Domestic and international demand from Consumers for medical goods and services supplied in India, is sufficiently large and robust to support the sustainable growth of the Indian medical and healthcare industry through existing Consumer purchasing power.   
+>a) Domestic and international demand from Consumers for medical goods and services supplied in India, is sufficiently large and robust to support the sustainable growth of the Indian healthcare industry through existing Consumer purchasing power.   
 >
->b) Numerous corporate entities within the medical and healthcare industry have abused that incentive causing an annual, excise and income-tax revenue loss to the Central and State Governments in India, at the rate of tens of Crores of Rupees per city per month, across India. 
+>b) Numerous corporate entities within the healthcare industry have abused that incentive causing an annual, excise and income-tax revenue loss to the Central and State Governments in India, at the rate of tens of Crores of Rupees per city per month, across India. 
 
 Let us now discuss the various ways in which certain privately owned and operated healthcare providers such as hospitals, clinics and medical diagnostics labs in India, have been abusing the excise duty and taxation system of Central and State Governments.  
 
@@ -20,7 +20,7 @@ Let us now discuss the various ways in which certain privately owned and operate
 	
 1. Destroying or altering a cash bill, or modifying financial and inventory accounts after a sale, for tax evasion  
 
-	This is practically a perfect crime being committed by various corporate entities that do not use a proper invoicing mechanism, especially in the pharmaceutical, medical and healthcare industries where large cash amounts are directly paid by the Consumer to the goods and services provider. The procedural steps of the crime include: 
+	This is practically a perfect crime being committed by various corporate entities that do not use a proper invoicing mechanism, especially in the pharmaceutical and healthcare industry where large cash amounts are directly paid by the Consumer to the goods and services provider. The procedural steps of the crime include: 
 
 	1. Billing a customer an amount greater than Rs. 50,000.00 with variety of fake or increased quantities of line items, and using a cash memo or a "Final Bill" without a proper invoice.  
 	
