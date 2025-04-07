@@ -1,7 +1,7 @@
 ## Rights to Usifruct of Personal Labour
 
 <br>
-<div align="center">
+<div align="center" lang="hi">
 <strong><p>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।</p>
 <p>मा कर्मफलहेतुर्भुर्मा ते सङ्गोऽस्त्वाकर्मणि॥</p></strong>
 </div>
@@ -74,4 +74,14 @@ Therefore, over time, as your curiosity turns into commitment which will then tu
 
 So, the safest and best Entity with whom you can form a relationship with, a Being who will never let you down because of negligence, or torment you with treachery and malice, is The One that brought you, your parents, your kinship, and also the entire universe into existence. The Name of That Being, is for you to discern, and to utter, if you so desire out of devotion. The stronger your relationship with That Being continues to grow and evolve, via devotion, the easier it will be for you to focus on and perform your rightful duties on this earth, in peace and with contentment, regardless of the transient outcomes. 
 
-Whether you do or don't have any emotional attachments to any of the envisioned outcomes derived from your labours and properties, and whether you did or did not have your rightful equities duly credited to you with dignity by earthly beings, you will always be unconditionally loved by your Supreme Creator, and will most certainly receive due respect, due recompense, and due justice by the designs of your Ultimate Lord. That, my dear, is certain!  
+Whether you do or you don't have any emotional attachments to any of the envisioned outcomes derived from your labours and properties, and whether you did or you did not have your rightful equities duly credited to you with dignity by earthly beings, you will always be unconditionally loved by your Supreme Creator, and will most certainly receive due respect, due recompense, and due justice by the designs of your Ultimate Lord. That, my dear, is certain!  
+
+<br>
+
+---
+
+- Usifruct - https://en.wikipedia.org/wiki/Usufruct
+
+- The sage advice from Baghvad Gita, about ownership of the fruits of one's labours - https://en.wikipedia.org/wiki/Bhagavad_Gita#Chapter_3:_Karma_Yoga_(43_verses)
+
+- Solipsism - https://en.wikipedia.org/wiki/Solipsism
