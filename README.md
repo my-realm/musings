@@ -65,3 +65,5 @@ Some philosophical and free-form expressions.
 
 ### [2025-02-17 | Fundamental Right to Protection from Exploitation and Duress](https://github.com/my-realm/musings/blob/main/fundamental-right-to-protection-from-exploitation-and-duress.md)
 
+### [2025-04-07 | Increased lethality of SARS-CoV-2](https://github.com/my-realm/musings/blob/main/increased-lethality-of-sars-cov-2.md)
+
