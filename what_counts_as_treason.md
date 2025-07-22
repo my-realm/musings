@@ -1,6 +1,6 @@
 ### What Counts as Treason 
 
-If a distiller and a distributor of alcohol were to knowingly provide products such as wines and spirits containing 16 parts per million (PPM) of methanol, to Indian Military Canteens, while providing the same brands of alcohol to private establishments such as hotels and bars, with 3 or 4 PPM of methanol, would that be considered as an act of treason? 
+If a distiller and a distributor of alcohol were to knowingly provide products such as wines and spirits containing 16 parts per million (PPM) of methanol, to Indian Military Canteens, while providing the same brands of alcohol to private establishments such as hotels and bars, with 3 or 4 PPM of methanol, wouldn't that be considered as an act of treason? 
 
 3 to 4 PPM of methanol already exists in almost all consumable beers, wines, and spirits because of the manufacturing and storage process employed in selling those products to "Consumers." Some distillers claim that their triple distilled ethanol (vodka or dry gin) sold for human consumption, contains exactly zero PPM of methanol.   
 
