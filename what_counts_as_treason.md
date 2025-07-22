@@ -8,6 +8,6 @@ Now, 16 PPM of methanol in a consumable product wouldn't exactly be lethal, at l
 
 Upon being discovered, the perpetrator could pretentiously say that it was entirely "unintentional" and would then be merely given a punitive fine of a few thousand Rupees, in a forum presided by a judge from the Consumer Disputes Redressal Commission. Much more typically, the perpetrator would get away with committing such a dastardly act, upon being indicted, by invoking corporate indemnities and claiming that as the manager or proprietor of the commercial enterprise, he was "unaware" that some worker in his company was selling batches of contaminated or adulterated whiskey to soldiers. The perpetrator would then escape and be free to commit the same crime, with impunity. 
 
-Targeting and deliberately harming the members of the Central Government of India, is an act of treason. Such traitors need to be brought to justice, especially when they are medical doctors or hospital managers who have a fiduciary duty to priorities public safety above their corporation's pecuniary interests.   
+Targeting and deliberately harming the members of the Central Government of India, is an act of treason. Such traitors need to be brought to justice, especially when they are medical doctors or hospital managers who have a fiduciary duty to prioritize public safety above their corporation's pecuniary interests.   
 
 `#HeadsUp` 
