@@ -42,4 +42,4 @@ So, what should able-bodied and competent adults do? Should we simply abandon th
 
 <br>
 
->Never give up, never give in. And when you have to let things go, let it go like a torpedo, so as to placidly watch the ships of your enemies sink. 
+>Never give up, never give in. And when you have to let things go, let it go like a torpedo, so as to calmly watch the ships of your enemies sink. 
