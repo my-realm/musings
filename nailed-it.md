@@ -30,7 +30,7 @@ So, here is one more way of tracing the end-beneficiary of a bribe:
 </div>
 
 
-- Next, explain to the bribe-taking clerk that the "gift" is worth 25k INR or something similarly expensive, and also let them know that the Consumer Complaint is worth 200k INR (a decently large amount less than 500K INR). Then, hand the bribe to them. Oh! Of course, you need to also submit a set of documents that look like a Consumer Complaint along with that gift. Also, let them know that the gift is for the President of the CDRC tribunal, and that it has been "blessed." 
+- Next, explain to the bribe-taking clerk that the "gift" is worth 25k INR or something similarly expensive, and also let them know that the Consumer Complaint is worth 200k INR (a decently large amount less than 500K INR). Then, hand the bribe to them. Oh! Of course, you do need to submit a set of documents that look like a Consumer Complaint along with that gift. Also, let them know that the gift is for the President of the CDRC tribunal, and that it has been "blessed." 
 
 <br>
 
