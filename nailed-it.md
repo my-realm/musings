@@ -38,9 +38,13 @@ The bribe-taking clerk doesn't keep the bribe, he shuffles it off to a person ou
 
 Eventually, when the final destination of the bribes and gifts are identified, one shouldn't be surprised to learn that it is a senior Judge's house, and that soon afterwards, that house burns down, while the fire department rightly watches all of that unearned cash go up in smoke, instead of saving the so-called "blessed money."
 
+<br> 
+
 >**There is no God or Goddess in Hindu mythology who is a blind-deaf-mute.**
 > 
 >**Which God or Goddess could possibly "bless" such corruption that involves temples and the endowments departments of various states which are being used as money laundering machines?**  
+
+<br> 
 
 This isn't a DIY project for Anyone or Everyone from no_one, it is merely a topic for investigative and law enforcement agencies to meditate upon. 
 
