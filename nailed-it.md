@@ -36,7 +36,7 @@ So, here is one more way of tracing the end-beneficiary of a bribe:
 
 The bribe-taking clerk doesn't keep the bribe, he shuffles it off to a person outside the Court Complex who then takes it away. The GPS / GNSS / BlueTooth (wide area band) tracking, is for detecting the path and location of where that bribe finally ends up. Cash as well as physical objects as gifts and bribes, appear to be going to the same destination for appraisal and final re-distribution to the underlings within the corrupt network of particular Judges and their office staff.   
 
-Eventually, when the final destination of the bribes and gifts are identified, one shouldn't be surprised to learn that it is a senior Judge's house, and that soon afterwards, that house burns down, while the fire department rightly watches all of that unearned cash go up in smoke, instead of saving the so-called "blessed money."
+Eventually, when the final destination of the bribes and gifts are identified, one shouldn't be surprised to learn that it is a senior Judge's house, and that soon afterwards, that house burns down, while the fire department silently watches all of that unearned cash go up in smoke, instead of saving the so-called "blessed money."
 
 <br> 
 
@@ -48,7 +48,7 @@ Eventually, when the final destination of the bribes and gifts are identified, o
 
 This isn't a DIY project for Anyone or Everyone from no_one, it is merely a topic for investigative and law enforcement agencies to earnestly meditate upon. 
 
-The fact that the integrity and character of identifiable public servants can be impugned using hard proofs and clear evidences, only goes to show that those dishonourable individuals were never ethical to being with and were never beyond reproach. Those unlawful wrongdoers as public servants, have continued to drag down the reputation and trustworthiness of important public institutions, without any personal consequences to themselves and with impunity. 
+The fact that the integrity and character of identifiable public servants can be impugned using hard proofs and clear evidences, only goes to show that those dishonourable individuals were never ethical to begin with, and were never beyond reproach. Those unlawful wrongdoers as public servants, have continued to drag down the reputation and trustworthiness of important public institutions, with impunity, and without any personal consequences to themselves. 
 
 The rest of the evidence of corruption in the district CDRC at L. B. Nagar Court Complex in Hyderabad, Telangana, is the conspicuous absence of the the new IT and video conferencing equipment along with the new furniture, that was supposed to have been purchased by the said district Consumer Forum using Central Government money disbursed to their office from the National Commission for CDRC.  
 
