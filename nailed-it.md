@@ -62,8 +62,7 @@ Unless those corrupt individuals in the district CDRC of Telangana are lawfully 
 
 	- Damroo ki Saaz - https://github.com/just-noticeable/damroo/tree/main/ki-saaz#readme 
 
-
----
+<br>
 
 - Examples of GPS trackers (for long-range, inter-state tracking): 
 
