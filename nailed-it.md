@@ -40,13 +40,13 @@ Eventually, when the final destination of the bribes and gifts are identified, o
 
 <br> 
 
->**There is no God or Goddess in Hindu mythology who is a blind-deaf-mute.**
+>**There is no God or Goddess in Hindu mythology who is a callous-blind-deaf-mute like a lifeless piece of stone.**
 > 
 >**Which God or Goddess could possibly "bless" such corruption that involves temples and the endowments departments of various states which are being used as money laundering machines?**  
 
 <br> 
 
-This isn't a DIY project for Anyone or Everyone from no_one, it is merely a topic for investigative and law enforcement agencies to meditate upon. 
+This isn't a DIY project for Anyone or Everyone from no_one, it is merely a topic for investigative and law enforcement agencies to earnestly meditate upon. 
 
 The fact that the integrity and character of identifiable public servants can be impugned using hard proofs and clear evidences, only goes to show that those dishonourable individuals were never ethical to being with and were never beyond reproach. Those unlawful wrongdoers as public servants, have continued to drag down the reputation and trustworthiness of important public institutions, without any personal consequences to themselves and with impunity. 
 
