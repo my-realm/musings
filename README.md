@@ -67,5 +67,7 @@ Some philosophical and free-form expressions.
 
 ### [2025-04-07 | Increased lethality of SARS-CoV-2](https://github.com/my-realm/musings/blob/main/increased-lethality-of-sars-cov-2.md)  
 
-### [2025-07-22 | What Counts as Treason](https://github.com/my-realm/musings/blob/main/what_counts_as_treason.md)   
+### [2025-07-22 | What Counts as Treason](https://github.com/my-realm/musings/blob/main/what_counts_as_treason.md) 
+   
+### [2025-09-22 | Electronic Method for Nailing Corrupt Judges](https://github.com/my-realm/musings/blob/main/nailed-it.md)    
 
