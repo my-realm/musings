@@ -53,6 +53,7 @@ The fact that the integrity and character of identifiable public servants can be
 The rest of the evidence of corruption in the district CDRC at L. B. Nagar Court Complex in Hyderabad, Telangana, is the conspicuous absence of the the new IT and video conferencing equipment along with the new furniture, that was supposed to have been purchased by the said district Consumer Forum using Central Government money disbursed to their office from the National Commission for CDRC.  
 
 Unless those corrupt individuals in the district CDRC of Telangana are lawfully punished with swift and stringent policing action, the basis of our society will continue to become hollow, and it may ultimately become devoid of all virtuous values that are worthy of respect.  
+
 <br>
 
 ---
