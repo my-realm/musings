@@ -40,7 +40,7 @@ Eventually, when the final destination of the bribes and gifts are identified, o
 
 <br> 
 
->**There is no God or Goddess in Hindu mythology who is a callous-blind-deaf-mute like a lifeless piece of stone.**
+>**There is no God or Goddess in Hindu mythology who is a callous-blind-deaf-mute, like a lifeless piece of stone.**
 > 
 >**Which God or Goddess could possibly "bless" such corruption that involves temples and the endowments departments of various states which are being used as money laundering machines?**  
 
