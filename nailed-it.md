@@ -48,7 +48,7 @@ Eventually, when the final destination of the bribes and gifts are identified, o
 
 This isn't a DIY project for Anyone or Everyone from no_one, it is merely a topic for investigative and law enforcement agencies to meditate upon. 
 
-The fact that the integrity and character of identifiable public servants can be impugned using hard proofs and clear evidences, only goes to show that those dishonourable individuals were never ethical to being with and were never beyond reproach. Those wrongdoers as public servants, have continued to drag down the reputation and trustworthiness of important public institutions, without any personal consequences to themselves and with impunity. 
+The fact that the integrity and character of identifiable public servants can be impugned using hard proofs and clear evidences, only goes to show that those dishonourable individuals were never ethical to being with and were never beyond reproach. Those unlawful wrongdoers as public servants, have continued to drag down the reputation and trustworthiness of important public institutions, without any personal consequences to themselves and with impunity. 
 
 The rest of the evidence of corruption in the district CDRC at L. B. Nagar Court Complex in Hyderabad, Telangana, is the conspicuous absence of the the new IT and video conferencing equipment along with the new furniture, that was supposed to have been purchased by the said district Consumer Forum using Central Government money disbursed to their office from the National Commission for CDRC.  
 
