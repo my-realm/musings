@@ -60,7 +60,7 @@ Unless those corrupt individuals in the district CDRC of Telangana are lawfully 
 
 - For additional context and references please see:
 
-	- Damroo ki Saaz - https://github.com/just-noticeable/damroo/tree/main/ki-saaz#readme 
+	- Damroo ki saaz - https://github.com/just-noticeable/damroo/tree/main/ki-saaz#readme 
 
 <br>
 
