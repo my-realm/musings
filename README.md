@@ -69,5 +69,7 @@ Some philosophical and free-form expressions.
 
 ### [2025-07-22 | What Counts as Treason](https://github.com/my-realm/musings/blob/main/what_counts_as_treason.md) 
    
-### [2025-09-22 | Electronic Method for Nailing Corrupt Judges](https://github.com/my-realm/musings/blob/main/nailed-it.md)    
+### [2025-09-22 | Electronic Method for Nailing Corrupt Judges](https://github.com/my-realm/musings/blob/main/nailed-it.md)
+    
+### [2025-10-03 | Vulnerable Airports](https://github.com/my-realm/musings/blob/main/vulnerable-airports.md)    
 
