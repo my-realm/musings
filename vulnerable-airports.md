@@ -89,7 +89,7 @@ Oh, well, que sera sera!
 <br>
 
 <div align="center">
-<img src="../img/c_est_la_vie-c_est_la_guerre.png"></img>
+<img src="https://github.com/my-realm/musings/blob/main/img/c_est_la_vie-c_est_la_guerre.png" height="60%"></img>
 <p><sub>A scene from the <a href="https://en.wikipedia.org/wiki/Tetris_(film)#Plot">Tetris movie</a></sub><p>
 </div>
 
