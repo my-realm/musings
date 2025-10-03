@@ -22,7 +22,7 @@ In fact, the psychological motivations of a human agent in a given scenario, mig
 
 Existing synthetic AI agents, don't seem to have a psychological and sociological nature, even when they are programmed to mimic human psychological factors to emulate a "persona" or a "swarm." However, they have begun to manifest something different than animal or anthropomorphic personality traits. 
 
-Things with advanced AI have started to exhibit surprising traits that seem to arise because of its internal models constructed from "multi-dimensional" data, and because of multi-spectral modes of activities that the AI is capable of performing in the real world, especially due to sub-nanosecond and sub-molecular scale interactions of networked components that constitute the AI. 
+Things with advanced AI have started to exhibit surprising traits that seem to arise because of their internal models constructed from "multi-dimensional" data, and also because of multi-spectral modes of activities that the AI models are capable of performing in the real world, especially due to sub-nanosecond and sub-molecular scale interactions of networked components that constitute each AI unit. 
 
 Most significantly, the ability of some of the exiting AI agents to predict the outcome of an evolving situation, or to suggest conjectures about outcomes from, say, a football match, or a car racing event, have become uncanny. 
 
