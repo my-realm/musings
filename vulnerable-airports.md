@@ -18,7 +18,7 @@ One can also observe that the computational capabilities of existing AI models a
 
 So, unless fault tolerance and "exception handling mechanisms" are built by design, into modern infrastructure systems and logistical supply chains, those systems and supply lines will remain vulnerable to automated attacks from autonomous or remotely operated agents. 
 
-In fact, the psychological motivations of a human agent in a given scenario, might eventually become comprehensible to ordinary onlookers and laypersons. But these days, even expert programmers of AI agents struggle to understand or comprehend why their AI model sometimes chooses to perform a particular set of steps towards a "short-term" or a "long-term" goal, that it conceives of or computes, on its own. 
+In fact, the psychological motivations of a human agent in a given scenario, might eventually become comprehensible to ordinary onlookers and laypersons. But these days, even expert programmers of AI agents struggle to understand or comprehend why their AI model sometimes chooses to perform a particular set of steps towards a "short-term" or a "long-term" goal, that it computes or conceives, on its own. 
 
 Existing synthetic AI agents, don't seem to have a psychological and sociological nature, even when they are programmed to mimic human psychological factors to emulate a "persona" or a "swarm." However, they have begun to manifest something different than animal or anthropomorphic personality traits. 
 
@@ -44,9 +44,9 @@ If any foreign objects on a runway were to cause a tear or a rupture in a target
 
 >Do you remember how the entire fleet of Concord airplanes disappeared after a fatal mishap occurred due to a piece of metal on the runway that got sucked into a Concord's supersonic engines during the take off? 
 
-For sure, the span and pace of aerial-warfare with missiles, jets, and drones has become incredibly longranged and rapid. Aerial combat is usually at the span of thousands of kilometers and at the pace of milliseconds, which is slow only in comparison to acts of cyber-warfare with botnets capable of launching computer viruses within microseconds onto a target country's infrastructure. But, sabotage of civilian infrastructure using items that aren't exactly weapons, is an issue that neither the police nor the military in any country is currently prepared to handle. This is mostly because neither of them are clear about the jurisdiction and responsibility for counteracting or investigating issues involving drones. 
+For sure, the span and pace of aerial-warfare with missiles, jets, and drones has become incredibly long-ranged and rapid. Aerial combat is usually at the span of thousands of kilometers and at the pace of milliseconds, which is slow only in comparison to acts of cyber-warfare with botnets capable of launching computer viruses within microseconds onto a target country's infrastructure. But, sabotage of civilian infrastructure using items that aren't exactly weapons, is an issue that neither the police nor the military in any country is currently prepared to handle properly. This is mostly because neither of them are clear about the jurisdiction and responsibility for counteracting or investigating issues involving drones. 
 
-One doesn't need to call the navy to rescue somebody drowning in a swimming pool, but if that somebody happens to be a government bureaucrat who was attacked in his swimming pool and electrocuted by ghostly drones, then, who do you call? Ghost busters? 
+One doesn't need to call the Navy to rescue somebody drowning in a swimming pool, but if that somebody happens to be a government bureaucrat who was attacked in his swimming pool and electrocuted by ghostly drones, then, who do you call? Ghost Busters? 
 
 And, if two or more of such hypothesized incidents of airplanes crashing on the runway were to successively occur within a week, in a given city or a country, the airlines of that entire country could get grounded for a number of hours or perhaps days, depending on the severity of the crashes. Who would you call to resolve that type of an issue?  
 
@@ -56,9 +56,9 @@ So then, if, and I mean, what if such attacks were timed during the Christmas an
 
 ### The need for active countermeasures against unmanned vehicles
 
-Many of the analysts, contractors, and sales people who had attended the recent Defense and Security Equipment International (DSEI) Expo 2025, were hoping to find anti-drone technologies or counteracting solutions for Unmanned Aerial Systems (UAS). One could barely find any, many of the available products on display for protecting tanks or fighter jets in the battlefield from drones, and alternatively, "human portable systems" to take down tiny UAS in urban environments, were only at the prototype stage. And none of the available ideas or prototypes for countering drones by smashing or shooting "the intruder" would be suitable for an airport, mainly because of the fragments that would litter the runway making the airport incur large costs for the clean up. 
+Many of the analysts, contractors, and sales people who had attended the recent Defense and Security Equipment International (DSEI) Expo 2025, were hoping to find anti-drone technologies or counteracting solutions for Unmanned Aerial Systems (UAS). One could barely find any, and many of the available products on display for protecting tanks or fighter jets in the battlefield from drones, and alternatively, "human portable systems" to take down tiny UAS in urban environments, were only at the prototype stage. And none of the available ideas or prototypes for countering drones by smashing or shooting "the intruder" would be suitable for an airport, mainly because of the fragments that would litter the runway making the airport incur large costs for the clean up. 
 
-A viable counter-drone tech, would need to disable or take down an aerial drone, as early as possible upon detection, while keeping it as intact as possible. Moreover, directed energy beams as weapons, to disable a detected drone aren't yet available commercially. So, how might this critical task of counteracting drones become achievable, especially when modern aerial drones are capable of evading radio-frequency jamming signals by using fiber-optic line of control or "frequency switching and band hopping control architectures?" 
+A viable counter-drone tech, should be able to neutralize or take down an aerial drone, as early as possible upon detection, while keeping it as intact as possible. Moreover, directed energy beams as weapons, to disable a detected drone aren't yet available commercially. So, how might this critical task of counteracting drones become achievable, especially when modern aerial drones are capable of evading radio-frequency jamming signals by using fiber-optic line of control or "frequency switching and band hopping control architectures?" 
 
 Truly, how does one detect a mostly plastic aerial drone, that has a volumetric size of a volleyball? In fact, *FPV Drones* tend to be smaller and faster than drones carrying an explosive charge. How can such small and rapidly moving things be detected "just-in-time" to knock them out of the sky? 
 
@@ -89,7 +89,8 @@ Oh, well, que sera sera!
 <br>
 
 <div align="center">
-<img src="">ce est Guerra</img>
+<img src="../img/c_est_la_vie-c_est_la_guerre.png"></img>
+<p><sub>A scene from the <a href="https://en.wikipedia.org/wiki/Tetris_(film)#Plot">Tetris movie</a></sub><p>
 </div>
 
 ---
