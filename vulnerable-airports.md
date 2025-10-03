@@ -36,13 +36,13 @@ So...
 
 ### Imagine this scenario involving drones and airports
 
-Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane, or worse, get sucked into the jet engine, and thereby, cause an incident on the runway. 
+Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane resulting in a tire burst, or worse, get sucked into the jet engine, and thereby, cause a fiery incident on the runway. 
 
 [Such aerial drones](https://youtu.be/u2bQSKvZ2qI) could sneak into the airspace of an airport, lay their droppings, and then escape. The eventual "mishap" on the runway would take months or years to investigate. 
 
 If any foreign objects on a runway were to cause a tear or a rupture in a targeted airplane's landing gear, fuselage, or in the engine, the death toll and financial loss from a crash could be sizable. 
 
->Do you remember how the entire fleet of Concord airplanes disappeared after a fatal mishap occurred due to a piece of metal on the runway that got sucked into a Concord's supersonic engines during the take off? 
+>Do you remember how the entire fleet of Concorde airplanes disappeared after a fatal mishap occurred due to a piece of metal on the runway that ruptured a tire, and then the debris from the tire burst ruptured the airplane's supersonic engines during its take off? [Air France flight 4590](https://www.youtube.com/watch?v=C-nALYF73hU&t=831s)
 
 For sure, the span and pace of aerial-warfare with missiles, jets, and drones has become incredibly long-ranged and rapid. Aerial combat is usually at the span of thousands of kilometers and at the pace of milliseconds, which is slow only in comparison to acts of cyber-warfare with botnets capable of launching computer viruses within microseconds onto a target country's infrastructure. But, sabotage of civilian infrastructure using items that aren't exactly weapons, is an issue that neither the police nor the military in any country is currently prepared to handle properly. This is mostly because neither of them are clear about the jurisdiction and responsibility for counteracting or investigating issues involving drones. 
 
