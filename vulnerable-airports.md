@@ -22,7 +22,7 @@ In fact, the psychological motivations of a human agent in a given scenario, mig
 
 Existing synthetic AI agents, don't seem to have a psychological and sociological nature, even when they are programmed to mimic human psychological factors to emulate a "persona" or a "swarm." However, they have begun to manifest something different than animal or anthropomorphic personality traits. 
 
-Things with advanced AI have started to exhibit surprising traits that seem to arise because of their internal models constructed from "multi-dimensional" data, and also because of multi-spectral modes of activities that the AI models are capable of performing in the real world, especially due to sub-nanosecond and sub-molecular scale interactions of networked components that constitute each AI unit. 
+Things with advanced AI have started to exhibit surprising traits that seem to arise because of their internal models constructed from *multi-dimensional data,* and also because of *multi-spectral modes* of activities that the AI models are capable of performing in the real world, especially due to sub-nanosecond and sub-molecular scale interactions of networked components that constitute each AI unit. 
 
 Most significantly, the ability of some of the exiting AI agents to predict the outcome of an evolving situation, or to suggest conjectures about outcomes from, say, a football match, or a car racing event, have become uncanny. 
 
@@ -36,7 +36,7 @@ So...
 
 ### Imagine this scenario involving drones and airports
 
-Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane resulting in a tire burst, or worse, get sucked into the jet engine, and thereby, cause a fiery incident on the runway. 
+Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane resulting in a tire burst, or worse, get sucked into the jet engines, and thereby, cause a fiery incident on the runway. 
 
 [Such aerial drones](https://youtu.be/u2bQSKvZ2qI) could sneak into the airspace of an airport, lay their droppings, and then escape. The eventual "mishap" on the runway would take months or years to investigate. 
 
@@ -48,9 +48,9 @@ For sure, the span and pace of aerial-warfare with missiles, jets, and drones ha
 
 One doesn't need to call the Navy to rescue somebody drowning in a swimming pool, but if that somebody happens to be a government bureaucrat who was attacked in his swimming pool and electrocuted by ghostly drones, then, who do you call? Ghost Busters? 
 
-And, if two or more of such hypothesized incidents of airplanes crashing on the runway were to successively occur within a week, in a given city or a country, the airlines of that entire country could get grounded for a number of hours or perhaps days, depending on the severity of the crashes. Who would you call to resolve that type of an issue?  
+And, if two or more of such hypothesized incidents of airplanes crashing on the runway were to successively occur within a week, in a given city or a country, the airlines of that entire country could get grounded for a number of hours or perhaps days, depending on the severity of the crashes. Who would you call then, to resolve that type of an issue?  
 
-So then, if, and I mean, what if such attacks were timed during the Christmas and New Year holidays, when the airline industry in the northern hemisphere of the world is at its busiest? Would it cause the aviation fuel stockpiles at the airports to overflow after most of the airplanes in a targeted country become grounded? Consequently, would crude oil prices again become negative, during such an incident? Would it take only two or three airplanes in a single airport to crash within a week, or a single airplane each in four separate airports of a country, so as to completely bring down the country's airline schedule?  
+So, if, and I mean, what if such attacks were timed during the Christmas and New Year holidays, when the airline industry in the northern hemisphere of the world is at its busiest? Would it cause the aviation fuel stockpiles at the airports to overflow after most of the airplanes in a targeted country become grounded? Consequently, would crude oil prices again become negative, during such an incident? Would it take only two or three airplanes in a single airport to crash within a week, or a single airplane each in four separate airports of a country, so as to completely bring down the country's airline schedule?  
 
 <br>
 
