@@ -1,6 +1,6 @@
 ## Vulnerable Airports
 
-Before exploring vulnerabilities of existing airports and airliners, let us muse about the uniquely human chore of creating "defense systems" like ramparts or castles... 
+Before exploring vulnerabilities of existing airports and airliners, let's muse about the uniquely human chore of creating "defense systems" like ramparts and castles... 
 
 For hundreds of years, human beings have been constructing defense systems with a multi-layered architecture. That is why, one basically needs to find and thread through the holes in each layer, to generate an "attack vector." 
 
