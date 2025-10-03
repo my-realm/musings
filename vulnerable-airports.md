@@ -28,7 +28,7 @@ Most significantly, the ability of some of the exiting AI agents to predict the 
 
 Some of the current AI models available to policing agencies can even "speculate" about the behaviour of human beings gathered outside a stadium as fans of a football team, after their team wins or looses in a tournament. Data driven predictors of hooliganism, are obviously of commercial value to the police. Therefore, wouldn't it be much more significant to be able to predict *how, where, when, and by whom,* can a particular set of activities causally lead to a malicious or a terror attack? 
 
-*Why* might attacks of any kind, ever happen, against a critical node within a supply chain? There could always be some type of a rational or a seemingly irrational explanation to why attacks have ever been conducted, or will ever be committed against an entity. But suffice it to say, offensive strategies and tactics do get employed by "mercantile groups and regimes" mainly for their personal sense of profit or payback. 
+*Why* might attacks of any kind, ever happen, against a critical node within a supply chain? There could always be some type of a rational or a seemingly irrational explanation to why attacks have ever been conducted, or will ever be committed against an entity. But suffice it to say, offensive strategies and tactics do get employed by "mercantile groups and regimes" mainly for gratifying their personal sense of profit or payback. 
 
 So...
 
