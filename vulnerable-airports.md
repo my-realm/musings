@@ -42,8 +42,12 @@ Right now, as a mere human being with measly cognitive abilities and ordinary sk
 
 If any foreign objects on a runway were to cause a tear or a rupture in a targeted airplane's landing gear, fuselage, or in the engine, the death toll and financial loss from a crash could be sizable. 
 
+<br>
+
 >[!NOTE] 
 >Do you remember how the entire fleet of Concorde airplanes disappeared after a fatal mishap occurred due to a piece of metal on the runway? A foreign object ripped a tire during the airplane's takeoff, and then the debris from the tires ruptured the vehicle's fuel tank, causing the plane to become a fireball that crashed into a building, killing 109 people, i.e. all 100 passengers, 5 crew members, and 4 other people on the ground. [Air France flight 4590](https://www.youtube.com/watch?v=C-nALYF73hU&t=831s)
+
+<br>
 
 For sure, the span and pace of aerial-warfare with missiles, jets, and drones has become incredibly long-ranged and rapid. Aerial combat is usually at the span of thousands of kilometers and at the pace of milliseconds, which is slow only in comparison to acts of cyber-warfare with botnets capable of launching computer viruses within microseconds onto a target country's infrastructure. But, sabotage of civilian infrastructure using items that aren't exactly weapons, is an issue that neither the police nor the military in any country is currently prepared to handle properly. This is mostly because neither of them are clear about the jurisdiction and responsibility for counteracting or investigating issues involving drones. 
 
@@ -75,8 +79,12 @@ Although more expensive, in the coming 10 to 15 years, if all commercial airline
 
 However in the mean time, within the coming 2 to 4 years, there isn't much that can be done to stop aerial drones from attacking commercial airlines. 
 
+<br>
+
 >[!WARNING]
 >The usual counter-terrorism efforts in each country are ongoing, for preventing attackers from ever launching a nefarious drone in the first place. But, you may be able to guess that right about now, there are groups of professional mercenaries around the world, **who would be willing and able to attack airlines connecting Israel to various other countries, inside those seemingly secure countries, by using drones.**  
+
+<br> 
 
 There are most probably other reasons or hot-button issues that could motivate seemingly random groups of amateur combatants and "irregular" militia to join the so-called war effort in their region against any invading regime, to use drones for directing attacks against the perceived enemy. For instance: Saudi-Yemeni issues concerning the airspace around the Red Sea; or the Jammu and Kashmir issue pertaining to India's and Pakistan's airspace; or the Tibet and Taiwan issues pertaining to China's airspace; Estonia-Latvia-Belarus-Bosnia-Moldova-Poland-Ukraine-Russia issue pertaining to European airspace; and so on and so forth.  
 
