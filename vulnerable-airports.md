@@ -86,7 +86,7 @@ However in the mean time, within the coming 2 to 4 years, there isn't much that 
 
 <br> 
 
-There are most probably other reasons or hot-button issues that could motivate seemingly random groups of amateur combatants and "irregular" militia to join the so-called war effort in their region against any invading regime, to use drones for directing attacks against the perceived enemy. For instance: Saudi-Yemeni issues concerning the airspace around the Red Sea; or the Jammu and Kashmir issue pertaining to India's and Pakistan's airspace; or the Tibet and Taiwan issues pertaining to China's airspace; Estonia-Latvia-Belarus-Bosnia-Moldova-Poland-Ukraine-Russia issue pertaining to European airspace; and so on and so forth.  
+There are most probably other reasons or hot-button issues that could motivate random groups of amateur combatants and "irregular" militia to join the so-called war effort in their region against any invading regime, to use drones for directing attacks against the perceived enemy. For instance: Saudi-Yemeni issues concerning the airspace around the Red Sea; or the Jammu and Kashmir issue pertaining to India's and Pakistan's airspace; or the Tibet and Taiwan issues pertaining to China's airspace; Estonia-Latvia-Belarus-Bosnia-Moldova-Poland-Ukraine-Russia issue pertaining to European airspace; and so on and so forth.  
 
 Also worth considering, what if kids playing with drones unintentionally cause a commercial airplane to crash because their innocent drone happened to be flying near an airport, or at an altitude where it could intercept an airplane? 
 
