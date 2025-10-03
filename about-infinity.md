@@ -16,9 +16,11 @@ I was inspired to think about the above types of things, while relaxing and watc
 
 ---
 
+## Improving The Axiomatic Set Theory Using The Concept of Partitioning a Space 
+
 Here are some other ideas along similar lines of discussion, that I end up pondering about, from time to time...
 
-Suppose, we were to change the name of "axiom of choice, i.e. the 'choosing' function", in axiomatic set theory, to the "axiom of 'partitionability', i.e. the 'else' function."
+Suppose, we were to change the name of "axiom of choice, i.e. the 'choosing' function", in Axiomatic Set Theory, to the "axiom of 'partitionability', i.e. the 'else' function."
 
 The choosing function asserts the ability of a mathematician, to consciously choose what is or isn't included within a set, in order to be able to form a well defined set. The epistemological process of doing so, is encapsulated within a finite process or a mathematical function, called the choosing function. 
 
