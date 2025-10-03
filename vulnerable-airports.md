@@ -2,7 +2,7 @@
 
 Before exploring vulnerabilities of existing airports and airliners, let us muse about the uniquely human chore of creating "defense systems" like ramparts or castles... 
 
-For hundreds of years, human beings have been constructing defense systems with a multi-layered architecture. That is why, one basically needs to find and thread through the holes in each layer, to construct an "attack vector." 
+For hundreds of years, human beings have been constructing defense systems with a multi-layered architecture. That is why, one basically needs to find and thread through the holes in each layer, to generate an "attack vector." 
 
 These days, military grade AI models have become exceptionally good at threading the needle's eye, in each layer of any given defense system. And when I say any defense system, I do mean any, without any exaggeration.    
 
