@@ -75,7 +75,8 @@ Although more expensive, in the coming 10 to 15 years, if all commercial airline
 
 However in the mean time, within the coming 2 to 4 years, there isn't much that can be done to stop aerial drones from attacking commercial airlines. 
 
-There are the usual counter-terrorism efforts in each country, for preventing attackers from ever launching a nefarious drone in the first place. But, you may be able to guess that right about now, there are groups of professional mercenaries around the world, **who would be willing and able to attack airlines connecting Israel to various other countries, inside those other countries.** 
+>[WARNING]
+>The usual counter-terrorism efforts in each country are ongoing, for preventing attackers from ever launching a nefarious drone in the first place. But, you may be able to guess that right about now, there are groups of professional mercenaries around the world, **who would be willing and able to attack airlines connecting Israel to various other countries, inside those seemingly secure countries, by using drones.**  
 
 There are most probably other reasons or hot-button issues that could motivate seemingly random groups of amateur combatants and "irregular" militia to join the so-called war effort in their region against any invading regime, to use drones for directing attacks against the perceived enemy. For instance: Saudi-Yemeni issues concerning the airspace around the Red Sea; or the Jammu and Kashmir issue pertaining to India's and Pakistan's airspace; or the Tibet and Taiwan issues pertaining to China's airspace; Estonia-Latvia-Belarus-Bosnia-Moldova-Poland-Ukraine-Russia issue pertaining to European airspace; and so on and so forth.  
 
