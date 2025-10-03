@@ -62,7 +62,7 @@ A viable counter-drone tech, should be able to neutralize or take down an aerial
 
 Truly, how does one detect a mostly plastic aerial drone, that has a volumetric size of a volleyball? In fact, *FPV Drones* tend to be smaller and faster than drones carrying an explosive charge. How can such small and rapidly moving things be detected "just-in-time" to knock them out of the sky? 
 
-This task is analogous to finding a flying cellphone against the backdrop of the sky, that has a very low heat signature, and is capable of moving faster than cars with suddenly changing flight trajectories, but at times, can move as slow as a walking or a standing person. Please note that, flying drones can also hide behind buildings or terrain, and within tree canopy, or simply land to become dormant, only to suddenly leap into action again.  
+This task is analogous to finding a flying cellphone that has a very low heat signature against the backdrop of the sky, and is capable of moving faster than cars with suddenly changing flight trajectories, but at times, can move as slow as a walking or a standing person. Please note that, flying drones can also hide behind buildings or terrain, and within tree canopy, or simply land to become dormant, only to suddenly leap into action again.  
 
 Indeed, across the world, none of the existing radar systems that are available as a part of the current airport infrastructure are tuned for this task. As such, new radar units will need to be commissioned and installed, that can be geared towards monitoring the entire perimeter and envelope of a given airport, for detecting drones. But then, how would those drones be taken down or deterred in a safe way? 
 
