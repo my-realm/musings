@@ -51,7 +51,7 @@ If any foreign objects on a runway were to cause a tear or a rupture in a target
 
 For sure, the span and pace of aerial-warfare with missiles, jets, and drones has become incredibly long-ranged and rapid. Aerial combat is usually at the span of thousands of kilometers and at the pace of milliseconds, which is slow only in comparison to acts of cyber-warfare with botnets capable of launching computer viruses within microseconds onto a target country's infrastructure. But, sabotage of civilian infrastructure using items that aren't exactly weapons, is an issue that neither the police nor the military in any country is currently prepared to handle properly. This is mostly because neither of them are clear about the jurisdiction and responsibility for counteracting or investigating issues involving drones. 
 
-One doesn't need to call the Navy to rescue somebody drowning in a swimming pool, but if that somebody happens to be a government bureaucrat who was attacked in his swimming pool and electrocuted by ghostly drones, then, who do you call? Ghost Busters? 
+One doesn't need to call the Navy to rescue somebody drowning in a swimming pool, but if that somebody happens to be a government bureaucrat who was attacked in his swimming pool and electrocuted to death by ghostly drones, then, who do you call? Ghost Busters? 
 
 And, if two or more of such hypothesized incidents of airplanes crashing on the runway were to successively occur within a week, in a given city or a country, the airlines of that entire country could get grounded for a number of hours or perhaps days, depending on the severity of the crashes. Who would you call then, to resolve that type of an issue?  
 
