@@ -122,6 +122,8 @@ Oh, well, que sera sera!
 
 Bonus content (YouTube videos): 
 
+- [AI generated images of "drones flying next to an airplane on fire at an airport"](https://github.com/my-realm/musings/tree/main/img/ai_generated)
+
 - [Footage from a drone deliberately flying close to an A380 near an airport](https://www.youtube.com/embed/bAgfVaM3vuw?start=04&end=55)
 
 - [Footage from a drone deliberately flying over a commercial jet near an airport](https://youtu.be/jzXmxjGbeIk)
@@ -137,5 +139,3 @@ Bonus content (YouTube videos):
 - ["Top 10" armed conflicts around the world in 2025](https://youtu.be/bPTdYdCYHBw) 
 
 - [How not to get killed by an attack drone](https://youtu.be/J6aFcT2VcNY)
-
-- [AI generated images of "drones flying next to an airplane on fire at an airport"](https://github.com/my-realm/musings/tree/main/img/ai_generated)
