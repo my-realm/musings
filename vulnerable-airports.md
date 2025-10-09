@@ -41,7 +41,7 @@ Right now, as a mere human being with measly cognitive abilities and ordinary sk
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/my-realm/musings/refs/heads/main/img/ai_generated/small_drone-airplane_on_fire.png" height="40%"></img>
+<img src="https://raw.githubusercontent.com/my-realm/musings/refs/heads/main/img/ai_generated/small_drone-airplane_on_fire.png" width="20%" height="20%"></img>
 <p><sub>Drone + Airplane Engine = Disaster</sub><p>
 </div>
 
