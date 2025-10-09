@@ -38,6 +38,16 @@ So...
 
 Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane resulting in a tire burst, or worse, get sucked into the jet engines, and thereby, cause a fiery incident on the runway. 
 
+<br>
+
+<div align="center">
+<img src="https://github.com/my-realm/musings/tree/main/img/ai_generated/small_drone-airplane_on_fire.png" height="40%"><img/>
+<p><sub>Drone + Airplane Engine = Disaster</sub><p>
+</div>
+
+<br>
+
+
 [Such aerial drones](https://youtu.be/u2bQSKvZ2qI) could sneak into the airspace of an airport, lay their droppings, and then escape. The eventual "mishap" on the runway would take months or years to investigate. 
 
 If any foreign objects on a runway were to cause a tear or a rupture in a targeted airplane's landing gear, fuselage, or in the engine, the death toll and financial loss from a crash could be sizable. 
@@ -63,7 +73,7 @@ So, if, and I mean, what if such attacks were timed during the Christmas and New
 
 Many of the analysts, contractors, and sales people who had attended the recent Defense and Security Equipment International (DSEI) Expo 2025, were hoping to find anti-drone technologies or counteracting solutions for Unmanned Aerial Systems (UAS). One could barely find any, and many of the available products on display for protecting tanks or fighter jets in the battlefield from drones, and alternatively, "human portable systems" to take down tiny UAS in urban environments, were only at the prototype stage. And none of the available ideas or prototypes for countering drones by smashing or shooting "the intruder" would be suitable for an airport, mainly because of the fragments that would litter the runway making the airport incur large costs for the clean up. 
 
-A viable counter-drone tech, should be able to neutralize or take down an aerial drone, as early as possible upon detection, while keeping it as intact as possible. Moreover, directed energy beams as weapons, to disable a detected drone aren't yet available commercially. So, how might this critical task of counteracting drones become achievable, especially when modern aerial drones are capable of evading radio-frequency jamming signals by using fiber-optic line of control or "frequency switching and band hopping control architectures?" 
+A viable counter-drone tech, should be able to neutralize or take down an aerial drone, as early as possible upon detection, while keeping it as intact as possible. Moreover, directed energy beams as weapons, to disable a detected drone aren't yet available commercially. So, how might this critical task of counteracting drones become achievable, especially when modern aerial drones are capable of evading radio-frequency jamming signals by using fiber-optic line of control or "frequency switching and band hopping, comms architecture?" 
 
 Truly, how does one detect a mostly plastic aerial drone, that has a volumetric size of a volleyball? In fact, *FPV Drones* tend to be smaller and faster than drones carrying an explosive charge. How can such small and rapidly moving things be detected "just-in-time" to knock them out of the sky? 
 
@@ -125,4 +135,6 @@ Bonus content (YouTube videos):
 
 - ["Top 10" armed conflicts around the world in 2025](https://youtu.be/bPTdYdCYHBw) 
 
-- [How not to get killed by a drone](https://youtu.be/J6aFcT2VcNY)
+- [How not to get killed by an attack drone](https://youtu.be/J6aFcT2VcNY)
+
+- [AI generated images of "drones flying next to an airplane on fire at an airport"](https://github.com/my-realm/musings/tree/main/img/ai_generated)
