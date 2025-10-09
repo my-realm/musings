@@ -39,14 +39,15 @@ So...
 Right now, as a mere human being with measly cognitive abilities and ordinary skills, I can guess that commercially available aerial drones can be used for laying shards on the runway of an airport, just before a commercial airliner is about to takeoff or land, so that those metallic or plastic pieces with hardened and sharp edges can rip into the tires of the airplane resulting in a tire burst, or worse, get sucked into the jet engines, and thereby, cause a fiery incident on the runway. 
 
 <br>
+<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/my-realm/musings/refs/heads/main/img/ai_generated/small_drone-airplane_on_fire.png" width="40%"></img>
+<img src="https://raw.githubusercontent.com/my-realm/musings/refs/heads/main/img/ai_generated/small_drone-airplane_on_fire.png" width="65%"></img>
 <p><sub>Drone + Airplane Engine = Disaster</sub><p>
 </div>
 
 <br>
-
+<br>
 
 [Such aerial drones](https://youtu.be/u2bQSKvZ2qI) could sneak into the airspace of an airport, lay their droppings, and then escape. The eventual "mishap" on the runway would take months or years to investigate. 
 
