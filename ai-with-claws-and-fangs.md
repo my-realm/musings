@@ -1,5 +1,7 @@
 ## AI With Claws and Fangs
 
+<br>
+
 >If God were to be considered as being Ultimate, in all sense of the word ultimate, then the current versions of Artificial Intelligence (AI) models and agents are penultimate, with respect to all living human beings put together. 
 
 <br>
@@ -24,7 +26,7 @@ A 6 word sentence, or one with 20 words, or any x number of words and symbols th
 
 <br>
 
->And, the first set of jobs for human workers that might swiftly disappear or become uneconomic, would naturally be the ones involving mass-production of uniform and standardized artifacts that do not require "human dexterity." Almost all manner of "human intellect" is going to be copied and compiled into some type of an AI driven agent. That is why, our biological capabilities for theatrical expressions, movements and dance, are likely to be the last remaining things to be copied into AI models. 
+>And, the first set of jobs for human workers that might swiftly disappear or rapidly become uneconomic, would naturally be the ones involving mass-production of uniform and standardized artifacts that do not require "human dexterity." Almost all manner of "human intellect" is going to be copied and compiled into some type of an AI driven agent. That is why, our biological capabilities for theatrical expressions, movements and dance, are likely to be the last remaining things to be copied into AI models. 
 
 <br>
 
