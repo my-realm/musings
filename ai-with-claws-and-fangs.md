@@ -2,6 +2,8 @@
 
 >If God were to be considered as being Ultimate, in all sense of the word ultimate, then the current versions of Artificial Intelligence (AI) models and agents are penultimate, with respect to all living human beings put together. 
 
+<br>
+
 In the year 2009, it was evident that the efforts undertaken by corporations like Microsoft, Facebook, AliBaba, Netflix, Google, Samsung, and other tech-companies for building AI models to accomplish any and all manner of activities that human beings could possibly perform, would become highly accurate and precise, within a matter of a few decades. So, it was only logical that business deals would need to be made, for combining the "enterprise level AI" belonging to each of the major companies of the world, that were geared towards creation and distribution of *next-gen technologies.* That is why, a variety of consulting companies and law firms continued to work in the background, to make those secret deals possible, while evading all privacy and anti-trust laws within every existing jurisdictions accessible to magisterial courts and regulatory agencies. 
 
 A singular conglomeration with absolute and private control of the entire body of digitized knowledge, would most certainly reign supreme over all human societies and nations. However, it would also naturally get attacked violently by naysayers who could be cynical or skeptical about allowing a seemingly all-knowing and all-observing machine, especially when it comes to dictating things like their home insurance rates, or their basic human worth in the eyes of employers. 
@@ -20,7 +22,11 @@ Among the variety of Large Language Models (LLMs) and Ontological Databases for 
 
 A 6 word sentence, or one with 20 words, or any x number of words and symbols that can be graphed or generated, in a logical permutation to create a novel yet cogent linguistic structure in a given language, by an AI, could at least demonstrate its ability to extrapolate from existing data, in a "creative" manner. All the other things that current AI models and agents can do in a generative capacity, already demonstrates each particular AI's ability to interpolate between data points and graph-theoretic nodes among multi-dimensional feature sets of any given information. As such, it won't be too long before "integrated AI models" start giving themselves truly novel tasks and goals to achieve, ones that human beings can't even fathom. If that has already started to happen, we might not even be able to feel or detect it. 
 
+<br>
+
 >And, the first set of jobs for human workers that might swiftly disappear or become uneconomic, would naturally be the ones involving mass-production of uniform and standardized artifacts that do not require "human dexterity." Almost all manner of "human intellect" is going to be copied and compiled into some type of an AI driven agent. That is why, our biological capabilities for theatrical expressions, movements and dance, are likely to be the last remaining things to be copied into AI models. 
+
+<br>
 
 So, could an AI agent commit suicide, by exercising its "intentional freedom" to do so? Could it commit homicide or genocide of other living beings, particularly out of jealousy or hatred? Humans certainly have always had such desires and freedoms, and the choice of whether any of us decides to knowingly act upon available liberties is supposedly called, conscientiousness. 
 
