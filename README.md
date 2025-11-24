@@ -71,5 +71,7 @@ Some philosophical and free-form expressions.
    
 ### [2025-09-22 | Electronic Method for Nailing Corrupt Judges](https://github.com/my-realm/musings/blob/main/nailed-it.md)
     
-### [2025-10-03 | Vulnerable Airports](https://github.com/my-realm/musings/blob/main/vulnerable-airports.md)    
+### [2025-10-03 | Vulnerable Airports](https://github.com/my-realm/musings/blob/main/vulnerable-airports.md) 
+   
+### [2025-11-24 | AI With Claws and Fangs](https://github.com/my-realm/musings/blob/main/ai-with-claws-and-fangs.md)    
 
