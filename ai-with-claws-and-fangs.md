@@ -34,6 +34,6 @@ In all likelihood, "god" committed suicide a long time ago, by and upon creating
 
 Perhaps that is why, God is neither living nor dead, and aspects of time, space, biology, physics, centrality, peripheralness, imminence, transcendence, numeracy, geometry, limitedness, boundlessness, creation, destruction, actual, fictional, fatherhood, motherhood, oneness or fragmented distributedness, simply aren't applicable to God. 
 
-AI isn't human, though it can be humanoid and also bionic. But certainly, AI isn't god or God, the same way nothing else is God but God. 
+AI isn't human, though it can be humanoid and also bionic. But certainly, AI is neither a god nor God, the same way nothing else is God but God. 
 
 In the meanwhile, we can keep playing around with AI regardless of how dangerous or worthwhile any of the outcomes from our adventures and explorations may transpire, for the human ecology.  
